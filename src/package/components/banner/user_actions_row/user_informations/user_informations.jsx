@@ -24,6 +24,7 @@ export const UserInformations = () => {
     const [additionalNodes] = useAdditionalNodes('banner.userInformations', null);
     const [isEditing] = useIsEditing();
     const [showContactInformations] = useOptions('showContactInfos', false);
+    console.log({ showContactInformations });
     const contactInformations = useMemo(
         () =>
             Object.entries(CONTACT_INFOS_DATA).reduce(
@@ -43,7 +44,7 @@ export const UserInformations = () => {
     const classes = useStyles();
     return (
         <div className={classes.container}>
-            <Avatar src={data.basics?.picture} />
+            <Avatar src={data.basics?.picture} displayedName={data.basics?.name} />
             <Column customClasses={{ container: classes.textColumn }}>
                 <Typography
                     customClasses={{

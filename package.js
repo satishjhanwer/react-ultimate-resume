@@ -27,8 +27,8 @@ const run = async () => {
     const postBuildCleanUpSpinner = ora('Doing post-build clean-up...').start();
     const rootNewFiles = fs.readdirSync(__dirname);
     rootNewFiles
-        .filter(name => !srcFiles.includes(name) && !TO_PRESERVE_DURING_CLEAN_UP.includes(name))
-        .forEach(fileName => {
+        .filter((name) => !srcFiles.includes(name) && !TO_PRESERVE_DURING_CLEAN_UP.includes(name))
+        .forEach((fileName) => {
             rimraf.sync(__dirname + `/${fileName}`, {}, () => {});
         });
     postBuildCleanUpSpinner.succeed('Did post-build clean up.');

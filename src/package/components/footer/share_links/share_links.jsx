@@ -73,7 +73,7 @@ const ShareLinksComponent = ({ useSmallLayout }) => {
                     if (tooltipTranslation) {
                         content = (
                             <Tooltip key={`share_link_tooltip_${entryId}`} title={tooltipTranslation}>
-                                <button className={classes.button} type="button">
+                                <button className={classes.button} aria-label={tooltipTranslation} type="button">
                                     {content}
                                 </button>
                             </Tooltip>

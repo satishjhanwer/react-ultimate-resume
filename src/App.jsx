@@ -1,14 +1,11 @@
 import React, { useCallback, useState } from 'react';
 import { FormattedMessage } from 'react-intl';
 import { createUseStyles } from 'react-jss';
-import isArray from 'lodash/isArray';
-import mergeWith from 'lodash/mergeWith';
-import omit from 'lodash/omit';
-import cloneDeep from 'lodash/cloneDeep';
+import { isArray, mergeWith, omit, cloneDeep } from 'lodash';
 import download from 'downloadjs';
 import { Button } from '@welovedevs/ui';
 
-import JsonStub from './data/json_stub.json';
+import JsonStub from './data/resumeData.json';
 import DeveloperProfile from './package';
 import { ReactComponent as SaveIcon } from './package/assets/icons/drop_file.svg';
 
@@ -23,7 +20,7 @@ const mergeFunction = (objValue, srcValue, key) => {
     return undefined;
 };
 
-const mode = process.env.REACT_APP_MODE || 'edit';
+const mode = process.env.REACT_APP_MODE || 'readOnly';
 
 function App() {
     const classes = useStyles();
@@ -61,8 +58,7 @@ function App() {
                     giphy: process.env.REACT_APP_GIPHY
                 },
                 endpoints: {
-                    devicons:
-                        'https://firebasestorage.googleapis.com/v0/b/jechercheundev.appspot.com/o/technologies%2Ftechnologies_list.json?alt=media&token=459028ba-d9bc-4480-a3c4-88633afab7e2'
+                    devicons: process.env.REACT_DEV_ICONS
                 },
                 // dismissFooter : true
                 // showContactInfos: true,

@@ -13,12 +13,13 @@ export const useCardSide = () => {
             if (changingSides) {
                 return;
             }
+
             dispatch({
                 type: SET_SIDE,
                 side: newSide
             });
         },
-        [changingSides]
+        [dispatch, changingSides]
     );
 
     return [side, setCardSide];

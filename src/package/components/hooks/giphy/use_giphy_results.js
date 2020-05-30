@@ -61,7 +61,7 @@ export const useGiphyResults = (input, page = 0, limit = 20, timeout = 800) => {
                     );
                 })
                 .catch((e) => {
-                    console.warn('Failed to fecth from giphy', e.message);
+                    console.warn('Failed to fetch from giphy', e.message);
                     setError(e.message);
                 })
                 .finally(() => {

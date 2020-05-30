@@ -2,8 +2,7 @@ import React, { useCallback, useMemo, useReducer, useState } from 'react';
 import { injectIntl, IntlProvider } from 'react-intl';
 import { createUseStyles, ThemeProvider } from 'react-jss';
 
-import mergeWith from 'lodash/mergeWith';
-import cloneDeep from 'lodash/cloneDeep';
+import { mergeWith, cloneDeep } from 'lodash';
 
 import { buildTheme } from '../utils/styles/theme/theme';
 import { Banner } from './banner/banner';

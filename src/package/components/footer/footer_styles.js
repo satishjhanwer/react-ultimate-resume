@@ -27,15 +27,13 @@ export const styles = (theme) => {
                 flexDirection: 'column'
             }
         },
-        logoLink: {
+        linkedinLink: {
             display: 'flex'
         },
-        logo: {
-            height: 26,
+        linkedinLogo: {
+            height: 30,
             width: 'unset',
-            '& > g': {
-                stroke: 'currentColor'
-            }
+            fill: palette.light[900]
         },
         githubLink: {
             display: 'flex'
