@@ -82,15 +82,7 @@ const Content = ({ hasProject, projectTitle, handleAddButtonClick, classes }) =>
     if (hasProject) {
         return (
             <Typography variant="h2" component="h2" classes={{ container: classes.text }}>
-                <FormattedMessage
-                    id="Projects.front.title"
-                    defaultMessage="My <emoji>♥️</emoji> project : "
-                    values={{
-                        emoji: ([value]) => {
-                            return <Twemoji svg text={value} />;
-                        }
-                    }}
-                ></FormattedMessage>
+                <FormattedMessage id="Projects.front.title" defaultMessage="My ♥️ project : "></FormattedMessage>
                 {projectTitle}
             </Typography>
         );

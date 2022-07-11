@@ -10,7 +10,7 @@
         "dev": "yarn start",
         "eject": "react-scripts eject",
         "test": "react-scripts test",
-        "build": "rimraf build && react-scripts build",
+        "build": "rimraf build && cross-env NODE_ENV=production react-scripts build",
         "serve": "react-scripts build && serve build",
         "manage:translations": "formatjs extract 'src/package/**/*.+(js|jsx|ts|tsx)' --out-file locales/extracted_locales/locales.json  --format locales/formatter/formatter.js && node ./translationRunner.js",
         "gh-deploy": "yarn build && gh-pages -d build",

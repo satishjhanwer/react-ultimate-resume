@@ -431,6 +431,7 @@
         {
             "id": "4c362cf5-7948-4c92-b362-bf60793ff898",
             "name": "Borrower Portal (Product)",
+            "title": "Projects",
             "description": "We have built a product named as Borrower Portal, This portal creates a way for end-user to apply for a loan. Which includes various steps likes uploading required government documents which help to process the loan application. Provide a way to link end-users bank account which ensures applied loan money deposited into bank account electronically. This uses services like plain / fincity.",
             "endDate": "2018-12-01",
             "index": 0,

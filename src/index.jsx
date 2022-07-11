@@ -1,24 +1,24 @@
 /* eslint-disable */
-import {createRoot} from 'react-dom/client';
+import { createRoot } from 'react-dom/client';
 
 import App from './App';
 
 import './package/styles/global.css';
 import './styles/animations.css';
 import './styles/tailwind.css';
-import {DEFAULT_THEME} from '@welovedevs/ui';
+import { DEFAULT_THEME } from '@welovedevs/ui';
 
-import {createTheme, ThemeProvider, StyledEngineProvider} from '@mui/material/styles';
+import { createTheme, ThemeProvider, StyledEngineProvider } from '@mui/material/styles';
 import MuiStylesProvider from '@mui/styles/StylesProvider';
-import {create} from 'jss';
-import {JssProvider} from 'react-jss';
+import { create } from 'jss';
+import { JssProvider } from 'react-jss';
 import jssDefaultPreset from 'jss-preset-default';
+import * as serviceWorkerRegistration from './serviceWorkerRegistration';
 
 const muiInstance = create(jssDefaultPreset());
-muiInstance.setup({insertionPoint: 'mui-insertion-point'});
+muiInstance.setup({ insertionPoint: 'mui-insertion-point' });
 const jssinstance = create(jssDefaultPreset());
-jssinstance.setup({insertionPoint: 'jss-insertion-point'});
-
+jssinstance.setup({ insertionPoint: 'jss-insertion-point' });
 
 export const theme = createTheme({
     spacing: 8,
@@ -32,9 +32,15 @@ export const theme = createTheme({
 const container = document.getElementById('root') || document.createElement('div');
 const root = createRoot(container);
 
-root.render(<MuiStylesProvider jss={muiInstance}>
-    <JssProvider jss={jssinstance}>
-        <App/>
-    </JssProvider>
-</MuiStylesProvider>);
+root.render(
+    <MuiStylesProvider jss={muiInstance}>
+        <JssProvider jss={jssinstance}>
+            <App />
+        </JssProvider>
+    </MuiStylesProvider>
+);
 
+// If you want your app to work offline and load faster, you can change
+// unregister() to register() below. Note this comes with some pitfalls.
+// Learn more about service workers: https://cra.link/PWA
+serviceWorkerRegistration.register();
