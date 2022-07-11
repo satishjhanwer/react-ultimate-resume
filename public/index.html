@@ -5,23 +5,9 @@
         <link rel="icon" href="%PUBLIC_URL%/favicon.ico" />
         <meta name="viewport" content="width=device-width, initial-scale=1" />
         <meta name="theme-color" content="#000000" />
-        <meta name="description" content="Web site created using create-react-app" />
+        <meta name="description" content="My Portfolio" />
+        <meta name="google-site-verification" content="kJPhftizihc4HKT_Q8Z5l2xTpOe8IUE4FWHsoW3xo4E" />
         <link rel="apple-touch-icon" href="%PUBLIC_URL%/logo192.png" />
-        <script lang="javascript">
-            function gm_authFailure(e) {
-                //google maps auth failed, setting it globally
-                google.init_error = "auth_failed";
-            };
-            function gm_map_ready(e) {
-                //google maps initialized
-                google.ready = true;
-            };
-        </script>
-        <script
-            type="text/javascript"
-            src="https://maps.googleapis.com/maps/api/js?key=%REACT_APP_GOOGLE_MAPS%&libraries=places&callback=gm_map_ready"
-        ></script>
-
         <link href="https://cdn.jsdelivr.net/npm/@welovedevs/ui/src/styles/tailwind.css" rel="stylesheet" />
 
         <!-- mui-insertion-point -->
@@ -42,11 +28,27 @@
       work correctly both with client-side routing and a non-root public URL.
       Learn how to configure a non-root public URL by running `npm run build`.
     -->
-        <title>Developer Profile - Development</title>
+        <title>Satish Jhanwer Profile</title>
     </head>
     <body>
         <noscript>You need to enable JavaScript to run this app.</noscript>
         <div id="root"></div>
+        <script async src="https://www.googletagmanager.com/gtag/js?id=UA-126659963-1"></script>
+        <script>
+            function gtag() {
+                dataLayer.push(arguments);
+            }
+            window.dataLayer = window.dataLayer || [];
+            gtag('js', new Date());
+            gtag('config', 'UA-126659963-1');
+        </script>
+        <script>
+            if ('serviceWorker' in navigator) {
+                navigator.serviceWorker.register('/service-worker.js', { scope: '/' }).then(function () {
+                    console.log('Service Worker Registered');
+                });
+            }
+        </script>
         <!--
       This HTML file is a template.
       If you open it directly in the browser, you will see an empty page.

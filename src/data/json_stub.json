@@ -1,67 +1,88 @@
 {
     "basics": {
-        "name": "John Doe",
-        "label": "Programmer",
-        "picture": "",
-        "email": "john.doe@mail.com",
-        "phone": "(912) 555-4321",
-        "website": "http://johndoe.com",
-        "summary": "A summary of John Doe...",
+        "name": "Satish Jhanwer",
+        "label": "Associate Architect",
+        "picture": "https://avatars0.githubusercontent.com/u/2142954?s=460&u=498eb6a32aaeb1481f61e9983d2d14542a47ef0a&v=4",
+        "email": "satish.jhanwer@gmail.com",
+        "phone": "(+91) 70433-94934",
+        "website": "",
+        "summary": "Associate Architect",
         "location": {
-            "address": "2712 Broadway St",
-            "postalCode": "CA 94115",
-            "city": "San Francisco",
-            "countryCode": "US",
-            "region": "California"
+            "address": "",
+            "postalCode": "342008",
+            "city": "Jodhpur",
+            "countryCode": "IN",
+            "region": "Rajasthan"
         },
         "profiles": [
             {
                 "network": "twitter",
-                "username": "@john"
-            },
-            {
-                "network": "Portfolio",
-                "url": "https://myawesome.portfolio.rocket.fr"
-            },
-            {
-                "network": "codingame",
-                "username": "ed3ee82f9630e99db32dec093b2ca07a0368002"
-            }, {
-                "network": "github",
-                "username": "clementdevos"
+                "username": "@satishjhanwer"
             },
             {
                 "network": "linkedin",
-                "url": "https://www.linkedin.com/in/%F0%9F%A5%B3-cl%C3%A9ment-devos-4b832526/"
+                "url": "https://www.linkedin.com/in/satishjhanwer/"
             }
         ]
     },
     "work": [
         {
-            "name": "Samsung Engineering",
-            "position": "3D Cad Engineer",
-            "website": "http://company.com",
-            "startDate": "2014-01-01",
-            "summary": "Description...",
-            "location": "Paris, France",
-            "highlights": ["Started the company"]
+            "name": "Sigma Infosolutions Ltd",
+            "position": "Associate Architect",
+            "website": "https://www.lendfoundry.com",
+            "startDate": "2022-01-13",
+            "summary": "Research and development of Golang, NodeJS, ReactJS. Designing and implementing software component assigned Write Unit Test case for the component built Do Code Review of the feature built by other team members Help team members technically whenever needed Process awareness for software development and implementing it Involvement in the recruitment process. Providing End to End solutions for the complex problem.",
+            "location": "Jodhpur, India",
+            "highlights": [""]
         },
         {
-            "name": "What a nice office",
-            "position": "President",
-            "website": "http://company.com",
-            "startDate": "2013-01-01",
-            "endDate": "2014-01-01",
-            "summary": "Description...",
-            "location": "Paris, France",
-            "highlights": ["Started the company"]
+            "name": "Barclays Global Service Centre",
+            "position": "Senior UI Developer",
+            "website": "https://www.barclays.in/global-service-centre/btci/",
+            "startDate": "2018-12-31",
+            "endDate": "2022-01-10",
+            "summary": "Working on technology which includes Node.JS, React.JS, Typescript, ExpressJS, Microservice, REST API etc",
+            "location": "Pune, India",
+            "highlights": [""]
         },
         {
-            "name": "What a nice experience",
-            "position": "Lead dev",
-            "website": "http://company.com",
-            "summary": "Description...",
-            "location": "Paris, France",
+            "name": "Sigma Infosolutions Ltd",
+            "position": "Associate Technical Architect",
+            "website": "https://www.sigmainfo.net/",
+            "startDate": "2018-08-01",
+            "endDate": "2018-12-14",
+            "summary": "Research and development of Golang, NodeJS, ReactJS. Designing and implementing software component assigned Write Unit Test case for the component built Do Code Review of the feature built by other team members Help team members technically whenever needed Process awareness for software development and implementing it Involvement in the recruitment process. Providing End to End solutions for the complex problem.",
+            "location": "Ahmedabad, India",
+            "highlights": [""]
+        },
+        {
+            "name": "Sigma Infosolutions Ltd",
+            "position": "Senior Software Engineer",
+            "website": "https://www.sigmainfo.net/",
+            "startDate": "2013-04-01",
+            "endDate": "2018-07-31",
+            "summary": "Research and development of Golang, NodeJS, ReactJS. Designing and implementing software component assigned Write Unit Test case for the component built Do Code Review of the feature built by other team members Help team members technically whenever needed Process awareness for software development and implementing it Involvement in the recruitment process. Other Business activities as defined by Project Manager.",
+            "location": "Ahmedabad, India",
+            "highlights": [""]
+        },
+        {
+            "name": "Sigma Infosolutions Ltd",
+            "position": "Software Engineer",
+            "website": "https://www.sigmainfo.net/",
+            "startDate": "2012-04-01",
+            "endDate": "2013-03-31",
+            "summary": "Research and development of Groovy & Grails. Designing and implementing software component assigned Write Unit Test case for the component built Do Code Review of the feature built by other team members Help team members technically whenever needed Process awareness for software development and implementing it Involvement in the recruitment process. Other Business activities as defined by Project Manager.",
+            "location": "Bangalore, India",
+            "highlights": [""]
+        },
+        {
+            "name": "Sigma Infosolutions Ltd",
+            "position": "Associate Software Engineer",
+            "website": "https://www.sigmainfo.net/",
+            "startDate": "2010-10-14",
+            "endDate": "2012-03-31",
+            "summary": "Research and development of Groovy & Grails. Designing and implementing software component assigned Write Unit Test case for the component built Do Code Review of the feature built by other team members Help team members technically whenever needed Process awareness for software development and implementing it Involvement in the recruitment process. Other Business activities as defined by Project Manager.",
+            "location": "Bangalore, India",
             "highlights": ["Started the company"]
         }
     ],
@@ -77,30 +98,54 @@
     ],
     "education": [
         {
-            "institution": "ISEN",
+            "position": 0,
+            "institution": "Rajasthan Technical University",
             "area": "Software Development",
             "studyType": "Engineer Degree",
-            "startDate": "2011-01-01",
-            "endDate": "2013-01-01",
-            "gpa": "4.0",
-            "courses": ["DB1101 - Basic SQL"]
+            "startDate": "2006-07-01",
+            "endDate": "2010-07-01",
+            "gpa": "75%",
+            "courses": ["Information Technology"]
         },
         {
-            "institution": "Université d'artois",
+            "position": 1,
+            "institution": "Board of Secondary Education, Rajasthan",
             "area": "",
-            "studyType": "",
-            "startDate": "2011-01-01",
-            "endDate": "",
-            "gpa": "4.0",
-            "courses": ["DB1101 - Basic SQL"]
+            "studyType": "Senior Secondary",
+            "startDate": "2006-06-01",
+            "endDate": "2005-07-01",
+            "gpa": "78%",
+            "courses": [""]
+        },
+        {
+            "position": 2,
+            "institution": "Board of Secondary Education, Rajasthan",
+            "area": "",
+            "studyType": "Secondary",
+            "startDate": "2003-07-01",
+            "endDate": "2004-06-01",
+            "gpa": "72%",
+            "courses": [""]
         }
     ],
     "awards": [
         {
-            "title": "Award",
-            "date": "2014-11-01",
-            "awarder": "Company",
-            "summary": "There is no spoon."
+            "title": "Quarterly Appreciation Award",
+            "date": "2015-08-01",
+            "awarder": "Sigma Infosolutions Ltd",
+            "summary": ""
+        },
+        {
+            "title": "Spot Award",
+            "date": "2014-10-01",
+            "awarder": "Sigma Infosolutions Ltd",
+            "summary": ""
+        },
+        {
+            "title": "Debut Employee Award",
+            "date": "2010-11-01",
+            "awarder": "Sigma Infosolutions Ltd",
+            "summary": ""
         }
     ],
     "publications": [
@@ -115,173 +160,416 @@
     "skills": [
         {
             "name": "React",
-            "level": "Master",
             "value": 100,
-            "keywords": ["HTML", "CSS", "Javascript"]
-        },
-        {
-            "name": "Angular",
-            "level": "Master",
-            "value": 80,
+            "id": "c0d86fc5-ce81-48ec-82d3-3ce3a1ec70ad",
             "keywords": ["HTML", "CSS", "Javascript"]
         },
         {
             "name": "NodeJS",
-            "level": "Master",
-            "value": 40,
+            "value": 100,
+            "id": "e8d6366c-e01c-4f40-b20b-5acdbe7b9914",
             "keywords": ["HTML", "CSS", "Javascript"]
         },
         {
-            "name": "Firebase",
-            "level": "Master",
-            "value": 60,
+            "name": "Typescript",
+            "value": 100,
+            "id": "d3c545e4-50f1-4ede-9537-e319195e3235"
+        },
+        {
+            "name": "Javascript",
+            "value": 100,
+            "id": "fbaed602-f51f-427c-bc54-3edded7195d8"
+        },
+        {
+            "name": "Redux",
+            "value": 100,
+            "id": "7f28311f-daee-44aa-8681-c9b8ecb3bb09"
+        },
+        {
+            "name": "AngularJS",
+            "value": 100,
+            "id": "3c392fc4-cbd9-4e3c-b968-1f03ea8550e7",
             "keywords": ["HTML", "CSS", "Javascript"]
         },
         {
-            "name": "Gmail",
-            "level": "Master",
-            "value": 20,
-            "keywords": ["HTML", "CSS", "Javascript"]
+            "name": "Gulp",
+            "value": 100,
+            "id": "2f085452-c3ae-403c-a4b5-65bc625e7985"
         },
         {
-            "name": "K8S",
-            "level": "Master",
-            "value": 80,
-            "keywords": ["HTML", "CSS", "Javascript"]
+            "name": "Grunt",
+            "value": 100,
+            "id": "72598cf6-1779-4cf4-b0e6-21925e986e7b"
+        },
+        {
+            "name": "Express",
+            "value": 100,
+            "id": "2c054467-6b7d-44eb-956c-f08bc3f3afa1"
+        },
+        {
+            "name": "Bootstrap",
+            "value": 100,
+            "id": "fff8c367-231b-4bed-8704-379b31577fd4"
+        },
+        {
+            "name": "CSS3",
+            "value": 100,
+            "id": "d05aa02b-ef46-40f0-b18c-56effe0f022d"
+        },
+        {
+            "name": "Less",
+            "value": 100,
+            "id": "8c65b523-5d3f-4046-8ffc-ce6f5ba85f3a"
+        },
+        {
+            "name": "Sass",
+            "value": 100,
+            "id": "2a45e305-b45c-47bf-be9b-aeb30cb5628a"
+        },
+        {
+            "name": "styled-components",
+            "value": 100,
+            "id": "13ff215b-fe60-404c-9878-0337247f2324"
+        },
+        {
+            "name": "Stylus",
+            "value": 100,
+            "id": "3fb39dde-b561-41e1-9c8f-d7d822cd9af5"
+        },
+        {
+            "name": "Next JS",
+            "value": 100,
+            "id": "9180547e-c09b-4c1e-a054-fbeb293950ab"
+        },
+        {
+            "name": "RxJS",
+            "value": 100,
+            "id": "f1620478-b3a4-49e9-aaa0-9a17fcbb3154"
+        },
+        {
+            "name": "vueJS",
+            "value": 100,
+            "id": "e9f0d491-8770-4144-bb0f-9c4af5676ac7"
+        },
+        {
+            "name": "BackboneJS",
+            "value": 100,
+            "id": "83dc1c1d-caa2-40fb-a0eb-80acf189d387"
+        },
+        {
+            "name": "D3JS",
+            "value": 100,
+            "id": "ed11ecff-4cf5-4494-bfc7-0f67b58d2009"
+        },
+        {
+            "name": "Babel",
+            "value": 100,
+            "id": "5df40bcd-8b7e-426e-b122-8771df5bfb13"
+        },
+        {
+            "name": "Coffeescript",
+            "value": 100,
+            "id": "5178ccca-279e-4678-ad6c-d86da24a6aa3"
+        },
+        {
+            "name": "Cypress",
+            "value": 100,
+            "id": "878b6b42-2351-4079-b223-7c723317a0b3"
+        },
+        {
+            "name": "Docker",
+            "value": 100,
+            "id": "7c7e3468-b086-40fc-a2ab-2c79d7e4cc38"
+        },
+        {
+            "name": "DGraph",
+            "value": 100,
+            "id": "b435fdc2-f9c3-44a9-ac19-ec4ecaaca378"
+        },
+        {
+            "name": "ESLint",
+            "value": 100,
+            "id": "a3ffaacf-ffb1-46d3-8412-f23caf01883a"
+        },
+        {
+            "name": "Go",
+            "value": 100,
+            "id": "19e46887-bb9e-4c6f-a56e-95153590dc08"
+        },
+        {
+            "name": "HTML5",
+            "value": 100,
+            "id": "8d0a9463-232b-4b00-853e-83a1384a974a"
+        },
+        {
+            "name": "Jasmine",
+            "value": 100,
+            "id": "5b1c4333-e817-44ce-8e80-a46dbd4a06a3"
+        },
+        {
+            "name": "Jest",
+            "value": 100,
+            "id": "7c52a516-03b4-49f1-b390-0f8c88afe97d"
+        },
+        {
+            "name": "jQuery",
+            "value": 100,
+            "id": "6a7414d8-6c84-47b7-bccd-7fba91b74ea6"
+        },
+        {
+            "name": "JUnit",
+            "value": 100,
+            "id": "703c5ead-9911-4c43-abbf-59d8ad8a3b2d"
+        },
+        {
+            "name": "Lit Elements",
+            "value": 100,
+            "id": "31d2771a-bbfc-4d42-ab92-ec2e9dff7531"
+        },
+        {
+            "name": "Material Ui",
+            "value": 100,
+            "id": "80d11e84-9e26-4230-90b1-4c6bb0a34439"
+        },
+        {
+            "name": "Mocha",
+            "value": 100,
+            "id": "5e9b1d3c-d320-4566-9eed-c838080485d7"
+        },
+        {
+            "name": "MongoDB",
+            "value": 100,
+            "id": "0eecd2b5-ec74-4798-8931-0e4344e62ae0"
+        },
+        {
+            "name": "Postman",
+            "value": 100,
+            "id": "1569836a-0a2b-4ebc-a818-43d160a0faec"
+        },
+        {
+            "name": "Prettier",
+            "value": 100,
+            "id": "ea585f40-0ecc-4e07-832c-159d67ae546e"
+        },
+        {
+            "name": "Progressive Web Apps",
+            "value": 100,
+            "id": "dd2b5ea7-630f-46c1-a92e-38fa6b9b8341"
+        },
+        {
+            "name": "Protractor",
+            "value": 100,
+            "id": "1dab39f3-07bc-4f15-810a-4f38729b7337"
+        },
+        {
+            "name": "Visual Code",
+            "value": 100,
+            "id": "e167644d-a97f-42ef-85b5-359eb741e0aa"
+        },
+        {
+            "name": "Webpack",
+            "value": 100,
+            "id": "1d553c45-c872-4468-9885-9b6396bfcf5d"
+        },
+        {
+            "name": "Yarn",
+            "value": 100,
+            "id": "6dd47b4b-eea9-4dae-a577-409a7284342f"
         }
     ],
     "languages": [
-        { "language": "English", "value": 100, "fluency": "Native speaker" },
-        { "language": "Italien", "value": 15, "fluency": "Native speaker" }
+        {
+            "language": "English",
+            "value": 100,
+            "fluency": "Expert"
+        },
+        {
+            "language": "Hindi",
+            "value": 100,
+            "fluency": "Native speaker"
+        }
     ],
     "interests": [
         {
-            "name": "France europe gif by nike football",
-            "gifUrl": "https://media1.giphy.com/media/3oD3YooLLYg0AfOPdK/giphy-downsized.gif?cid=f7fb5bbaegu1ofs48lty41dyowqsfo0wq9qq8h4czot7rwm1&rid=giphy-downsized.gif",
-            "id": "afa5739f-f868-464e-a1aa-18f5a3ff4e2b",
-            "gifUser": {
-                "name": "Nike Football",
-                "profileUrl": "https://giphy.com/nikefootball/",
-                "isVerified": true,
-                "profileAvatarUrl": "https://media1.giphy.com/avatars/nikefootball/vPyZcrShcXY8.jpg"
+            "name": "Technology",
+            "gifUrl": "https://media.giphy.com/media/26tOY3KjQUL9YhRT2/giphy.gif",
+            "id": "e33126c1-9978-48a5-b44d-2e024508d9c7",
+            "index": 0
+        },
+        {
+            "name": "Watching Movies",
+            "gifUrl": "https://media.giphy.com/media/QWGcwOFCBTRLmgxW7k/giphy.gif",
+            "id": "40f16104-0e55-40b5-b7b8-2c634cfaf86e",
+            "index": 1
+        },
+        {
+            "name": "Surfing Internet",
+            "gifUrl": "https://media.giphy.com/media/IwTWTsUzmIicM/giphy.gif",
+            "id": "d445b440-c831-45a8-9e03-2cc171a4f8a4",
+            "index": 2
+        },
+        {
+            "name": "Family",
+            "gifUrl": "https://media.giphy.com/media/kD6UmjMllx7FJlw9kV/giphy.gif",
+            "id": "0b187930-3c90-4d60-b815-c1de68dc44d4",
+            "index": 3
+        },
+        {
+            "name": "Console Gaming",
+            "gifUrl": "https://media.giphy.com/media/AhhGtrpj5ZxGZER5yC/giphy.gif",
+            "id": "696e24af-5fb6-4a1a-8cec-a414f48e0d3b",
+            "index": 4
+        }
+    ],
+    "references": [
+        {
+            "name": "Jane Doe",
+            "reference": "Reference..."
+        }
+    ],
+    "projects": [
+        {
+            "id": "4c362cf5-7948-4c92-b362-bf60793ff898",
+            "name": "Borrower Portal (Product)",
+            "description": "We have built a product named as Borrower Portal, This portal creates a way for end-user to apply for a loan. Which includes various steps likes uploading required government documents which help to process the loan application. Provide a way to link end-users bank account which ensures applied loan money deposited into bank account electronically. This uses services like plain / fincity.",
+            "endDate": "2018-12-01",
+            "index": 0,
+            "link": "",
+            "images": [],
+            "date": {
+                "month": 12,
+                "year": 2018
             }
         },
         {
-            "name": "Burritos",
-            "gifUrl": "https://media.giphy.com/media/d8WjGORtSEWqc/giphy.gif"
-        },
-
-        {
-            "name": "Tendresse",
-            "gifUrl": "https://media.giphy.com/media/EehnUUCH2JcwU/giphy.gif"
-        },
-        {
-            "name": "Something",
-            "gifUrl": "https://media.giphy.com/media/xTiTnIuKP1BLsMTerS/giphy.gif"
-        },
-        {
-            "name": "J'aime faire de la course à pied et des randonnées en famille le weekend."
-        }
-    ],
-    "references": [{ "name": "Jane Doe", "reference": "Reference..." }],
-    "projects": [
-        {
-            "index": 5,
-            "date": { "month": 11, "year": 2019 },
-            "description": "Moteur de recherche via le nom de films réalisée avec ReactJs:\nRequête à l'Api rest avec Fetch, utilisation des hooks.\n",
-            "id": "7f1f4257-e5db-477d-aa5f-ababe0ab0b12",
-            "images": [{ "url": "https://cdn.filestackcontent.com/aBOkTTkCQ66VOHUy0q8L" }],
-            "link": "https://lovely-movie.netlify.app/",
-            "name": "Lovely Movie",
-            "endDate": "2019-12-01"
-        },
-        {
-            "index": 2,
-            "date": { "month": 0, "year": 2020 },
-            "description": "Application de gestion de tâches réalisée avec ReactJs / Redux / Firebase :\nCréation de composants avec Styled Components, gestions de formulaires et validation des entrées, création d'une authentification, récupération / création / modification / suppression de tâches.",
-            "id": "af4181b1-8955-47fb-8dd9-17c6974335d3",
-            "images": [{ "url": "https://cdn.filestackcontent.com/G2CckiqvScC9tsrvHYg4" }],
-            "link": "https://diary-todo.netlify.app/",
-            "name": "Journal d'une Todo",
-            "endDate": "2020-01-01"
-        },
-        {
-            "index": 4,
-            "date": { "month": 5, "year": 2020 },
-            "description": "Blog réalisé en Java JEE et Spring, avec création d'une base de données MySQL et connectée avec JDBC.",
-            "id": "af8c78c3-f7c6-4f3b-9c32-9d37a9032e14",
-            "images": [{ "url": "https://cdn.filestackcontent.com/rPp0wj4S2GhTr0qTcqOI" }],
-            "link": "https://btz-java-2003-pjt1-blog.javarover.wilders.dev/",
-            "name": "Charlie's Angels blog",
-            "endDate": "2020-06-01"
-        },
-        {
-            "index": 3,
-            "date": { "month": 5, "year": 2020 },
-            "description": "** Pensée uniquement pour téléphone **\nApplication permettant de connaître la météo actuelle d'une ville. Réalisée afin de découvrir VueJs.",
-            "id": "c64e6ca1-6300-4d7f-a305-8cfb7c99a9e6",
-            "images": [{ "url": "https://cdn.filestackcontent.com/w5oskUihSiYCxekOn9Ba" }],
-            "link": "https://appli-meteo.netlify.app/",
-            "name": "Application Météo",
-            "endDate": "2020-06-01"
-        },
-        {
+            "id": "61b4038b-2e61-49ec-99a4-ad17adc9f928",
+            "name": "Back-Office Portal (Product)",
+            "description": "We have built a product named as Back-Office Portal, Which handles loan application, with the various life cycle of loan application and executes various steps including verification using 3rd party providers, generating cash flow and creating reports based on it.",
+            "endDate": "2018-12-01",
             "index": 1,
-            "date": { "month": 7, "year": 2020 },
-            "description": "Premières armes avec Angular et Typescript :\nMise en place d'un environnement Angular, développement d'une authentification avec Firebase, gestion des formulaires, utilisation d'observable avec RxJs.\n",
-            "id": "d9f7ca32-a40a-418e-affb-317bfb4f520e",
-            "images": [{ "url": "https://cdn.filestackcontent.com/NVOhKNFQR9OQ3jtkIyHi" }],
-            "link": "https://my-connected-library.netlify.app/",
-            "name": "Librairie Connectée",
-            "endDate": "2020-08-01"
+            "link": "",
+            "images": [],
+            "date": {
+                "month": 12,
+                "year": 2018
+            }
         },
         {
+            "name": "Customer Facing and Back-Office Portal",
+            "description": "We created a customer and back-office portal for one of the biggest personal loan provider in USA. Which has various process which are required for a loan application to move further in its lifecycle.",
+            "endDate": "2016-03-31",
+            "index": 2,
+            "link": "",
+            "images": [],
+            "date": {
+                "month": 3,
+                "year": 2016
+            }
+        },
+        {
+            "id": "de55013f-1c9a-4603-b698-44b1810ad69c",
+            "name": "SAAS based Application for Manufactures",
+            "description": "Its a high-performance, multi-tenant cloud application. It’s a SAAS based solution for Sales/Marketing team for the Consumer Products industry, that sell products to the retailers.",
+            "endDate": "2014-03-31",
+            "index": 3,
+            "link": "",
+            "images": [],
+            "date": {
+                "month": 3,
+                "year": 2014
+            }
+        },
+        {
+            "id": "1e3a2796-e06c-4322-96ca-0df39c478d8d",
+            "name": "SAAS Application based on Social Domain",
+            "description": "The Social Business Index (SBI) is used to score and rank social network activity about various large MNC's, across the top social networks, including Twitter, LinkedIn and Facebook. Based on the followers of these social networks of various companies, the software arrives at a score (Business Index) and ranks it as per highest to lowest. Each of the products of these companies will be segmented and find the score ratio which will be used for analysis, recommendations and to generate analytical reports, charts etc",
+            "endDate": "2013-12-01",
+            "index": 4,
+            "link": "",
+            "images": [],
+            "date": {
+                "month": 12,
+                "year": 2013
+            }
+        },
+        {
+            "id": "09fa39da-9153-4289-b992-b2a2c8938693",
+            "name": "SAAS based Application for Tracking Brand’s Social Performance",
+            "description": "It is a SAAS web application that tracks the brand’s social activities against brand marketing business outcomes including Brand Awareness, Brand Love, Brand Mindshare, and Brand Advocacy. Unlike alternatives that focus only on simplistic activity counts, it provides metrics correlated to the brand marketing business outcomes and benchmarked against the competitors and industry.",
+            "endDate": "2012-12-01",
+            "index": 5,
+            "link": "",
+            "images": [],
+            "date": {
+                "month": 12,
+                "year": 2012
+            }
+        },
+        {
+            "id": "7bcc6b3c-9399-41d7-ba70-0070e7e42c0f",
+            "name": "SAAS for Brand’s Advocacy Impact",
+            "description": "It is a subscription service that identifies a brand’s top advocates across social channels and measures brand impact, giving a more scalable (and trusted) way of engaging with the audience. It identifies a brand’s advocates by isolating brand-related conversations and applying sentiment and topic analysis, creating a unique window into the people and conversations that reinforce a brand’s message in the market.",
+            "endDate": "2012-12-01",
             "index": 6,
-            "date": { "month": 4, "year": 2019 },
-            "description": "Moteur de recherche basé sur le jeu World of Warcraft, premiers pas avec ReatJs.\nRequête à l'API Raider.io avec Axios.",
-            "id": "dbe2a8d9-dd9d-443d-8ae4-7a8e0b7939f5",
-            "images": [{ "url": "https://cdn.filestackcontent.com/FSysoX0ATvqy2BFvLF21" }],
-            "link": "https://wow-search-engine.netlify.app/",
-            "name": "WoW Search",
-            "endDate": "2019-05-01"
+            "link": "",
+            "images": [],
+            "date": {
+                "month": 12,
+                "year": 2012
+            }
         },
         {
-            "index": 0,
-            "date": { "month": 6, "year": 2020 },
-            "description": "Application réalisée en 24h (challenge de formation) avec Java JEE et Spring:\nGestion d’un CRUD, création d'une API Rest, ajout d'un environnement de production avec une base de données PostgreSQL hébergée sur Heroku.",
-            "id": "ffb8a4f2-24e6-44ef-bbe7-0593b86d40be",
-            "images": [{ "url": "https://cdn.filestackcontent.com/7XpHKtFTC2VynppurrK5" }],
-            "link": "https://your-todos-list.herokuapp.com/",
-            "name": "Your Todo List",
-            "endDate": "2020-07-01"
+            "id": "40033a45-d6f9-4d2a-bf1e-deb6a043221e",
+            "name": "SAAS for managing Employees’ Social Advocacy",
+            "description": "It is a subscription service that measures the impact of employees’ social activities on a brand and allows for the management of employee advocacy programs, giving brands the ability to scale their engagement across their social audience. Brands can mobilize and measure their employees' social efforts with a Portal and an Employee Leader board, enabling to showcase policies and programs, and providing with insight to posts, followers, sentiment, and echoed signals.",
+            "endDate": "2011-12-01",
+            "index": 7,
+            "link": "",
+            "images": [],
+            "date": {
+                "month": 12,
+                "year": 2012
+            }
         }
     ],
     "specific": {
         "basics": {
             "visaSponsorship": true,
-            "personalDescription": "This is a longer description of me, of my backstory, my backyard, my backfire, my backend, my frontend and my friends."
+            "personalDescription": "Senior UI Developer, Currently working on technology which includes Node.JS, React.JS, Golang, ExpressJS, MongoDB, Docker, Kubernetes, Microservice, REST API etc."
         },
         "dreamJob": {
-            "locations": [{ "name": "Valenciennes, France" }, { "name": "Lille, France" }, { "name": "Paris,France" }],
+            "locations": [
+                {
+                    "name": "India"
+                }
+            ],
+            "perks": {
+                "mood": true,
+                "challenge": true,
+                "work_hours": true,
+                "responsibilities": true,
+                "training": true,
+                "salary": true,
+                "perks": true
+            },
             "remoteFrequency": "regularly"
         },
-        "currentJob": {
-            "issues": { "z": true, "boring_team": true }
+        "education": {
+            "studiesLevel": 4
         },
-        "education": { "studiesLevel": null },
         "work": {
-            "contractTypes": ["permanent", "freelance", "internship"],
-            "codingYears": 0,
-            "codingReason": "J'ai commencé à coder sur Amstrad dans ma cave et je n'ai jamais arrêté depuis",
-            "searchState": "activelySearching",
-            "experienceYears": 0,
-            "codeExperienceYears": null,
+            "contractTypes": ["permanent"],
+            "codingYears": 12,
+            "codingReason": "I'm passionate about learning JavaScript and love what I do.",
+            "searchState": "openOpportunities",
+            "experienceYears": 12,
+            "codeExperienceYears": 12,
             "otherExperienceYears": null
         },
         "sound": {
-            "embedUrl": "https://open.spotify.com/embed/playlist/37i9dQZF1DWWl7MndYYxge"
+            "embedUrl": ""
         },
-        "interestedBy": "Angular, la blochain et les chatons."
+        "interestedBy": "I am interested in Javascript Technology."
     },
     "resumeCustomization": {
         "imageHeader": {
@@ -289,21 +577,93 @@
             "alt": "Default Banner"
         },
         "cardsOrder": [
-            { "type": "basics", "variant": 4 },
-            { "type": "projects", "variant": 4 },
-            { "type": "skills", "variant": 0 },
-            { "type": "dreamjob", "variant": 4 },
-            { "type": "experiences", "variant": 4 },
-            { "type": "studies", "variant": 4 },
-            { "type": "gifs", "variant": 0 },
-            { "type": "interestedBy", "variant": 3 },
-            { "type": "language", "variant": 4 },
-            { "type": "soundtrack", "variant": 4 },
-            { "type": "social", "variant": 4 }
+            {
+                "type": "basics",
+                "variant": 4
+            },
+            {
+                "type": "projects",
+                "variant": 4
+            },
+            {
+                "type": "skills",
+                "variant": 0
+            },
+            {
+                "type": "experiences",
+                "variant": 4
+            },
+            {
+                "type": "studies",
+                "variant": 4
+            },
+            {
+                "type": "dreamjob",
+                "variant": 4
+            },
+            {
+                "type": "gifs",
+                "variant": 0
+            },
+            {
+                "type": "interestedBy",
+                "variant": 3
+            },
+            {
+                "type": "language",
+                "variant": 4
+            },
+            {
+                "type": "social",
+                "variant": 4
+            }
         ],
         "fields": {
             "work": {
                 "customDateFormat": "YYYY"
+            }
+        },
+        "theme": {
+            "palette": {
+                "primary": {
+                    "50": "#eae6ed",
+                    "100": "#d4cddb",
+                    "200": "#aa9bb7",
+                    "300": "#7f6892",
+                    "400": "#55366e",
+                    "500": "#2a044a",
+                    "600": "#22033b",
+                    "700": "#19022c",
+                    "800": "#11021e",
+                    "900": "#08010f",
+                    "contrastDefaultColor": "light"
+                },
+                "secondary": {
+                    "50": "#e7eaee",
+                    "100": "#ced5de",
+                    "200": "#9dabbd",
+                    "300": "#6d829b",
+                    "400": "#3c587a",
+                    "500": "#0b2e59",
+                    "600": "#092547",
+                    "700": "#071c35",
+                    "800": "#041224",
+                    "900": "#020912",
+                    "contrastDefaultColor": "light"
+                },
+                "tertiary": {
+                    "50": "#e7f0ee",
+                    "100": "#cfe1de",
+                    "200": "#9ec2bd",
+                    "300": "#6ea49b",
+                    "400": "#3d857a",
+                    "500": "#0d6759",
+                    "600": "#0a5247",
+                    "700": "#083e35",
+                    "800": "#052924",
+                    "900": "#031512",
+                    "contrastDefaultColor": "light"
+                }
             }
         }
     }
