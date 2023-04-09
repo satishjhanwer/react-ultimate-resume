@@ -33,7 +33,13 @@
             "startDate": "2022-01-13",
             "summary": "Research and development of Golang, NodeJS, ReactJS. Designing and implementing software component assigned Write Unit Test case for the component built Do Code Review of the feature built by other team members Help team members technically whenever needed Process awareness for software development and implementing it Involvement in the recruitment process. Providing End to End solutions for the complex problem.",
             "location": "Jodhpur, India",
-            "highlights": [""]
+            "highlights": [""],
+            "id": "f3792c0a-8710-469d-afc2-42d29ebb2da4",
+            "place": {
+                "name": "Jodhpur, India"
+            },
+            "stillEmployed": true,
+            "index": 0
         },
         {
             "name": "Barclays Global Service Centre",
@@ -41,9 +47,15 @@
             "website": "https://www.barclays.in/global-service-centre/btci/",
             "startDate": "2018-12-31",
             "endDate": "2022-01-10",
-            "summary": "Working on technology which includes Node.JS, React.JS, Typescript, ExpressJS, Microservice, REST API etc",
+            "summary": "Worked on MCA Framework, This is layered framework consisting 3 layers- UI, Secure Proxy, and Service Layer. Different mini apps are developed using this framework and then are consumed by end users. UI mini app is designed using either ReactJS or AngularJS using the MCA Framework.",
             "location": "Pune, India",
-            "highlights": [""]
+            "highlights": [""],
+            "id": "0575e6eb-e1d9-4a9b-87e3-4b0044525a15",
+            "place": {
+                "name": "Pune, India"
+            },
+            "stillEmployed": false,
+            "index": 1
         },
         {
             "name": "Sigma Infosolutions Ltd",
@@ -53,7 +65,13 @@
             "endDate": "2018-12-14",
             "summary": "Research and development of Golang, NodeJS, ReactJS. Designing and implementing software component assigned Write Unit Test case for the component built Do Code Review of the feature built by other team members Help team members technically whenever needed Process awareness for software development and implementing it Involvement in the recruitment process. Providing End to End solutions for the complex problem.",
             "location": "Ahmedabad, India",
-            "highlights": [""]
+            "highlights": [""],
+            "id": "a6571bc8-2ad2-44d2-8801-244152b23e84",
+            "place": {
+                "name": "Ahmedabad, India"
+            },
+            "stillEmployed": false,
+            "index": 2
         },
         {
             "name": "Sigma Infosolutions Ltd",
@@ -63,7 +81,13 @@
             "endDate": "2018-07-31",
             "summary": "Research and development of Golang, NodeJS, ReactJS. Designing and implementing software component assigned Write Unit Test case for the component built Do Code Review of the feature built by other team members Help team members technically whenever needed Process awareness for software development and implementing it Involvement in the recruitment process. Other Business activities as defined by Project Manager.",
             "location": "Ahmedabad, India",
-            "highlights": [""]
+            "highlights": [""],
+            "id": "16acc509-8a5e-466d-953f-e17cbc814149",
+            "place": {
+                "name": "Ahmedabad, India"
+            },
+            "stillEmployed": false,
+            "index": 3
         },
         {
             "name": "Sigma Infosolutions Ltd",
@@ -73,7 +97,13 @@
             "endDate": "2013-03-31",
             "summary": "Research and development of Groovy & Grails. Designing and implementing software component assigned Write Unit Test case for the component built Do Code Review of the feature built by other team members Help team members technically whenever needed Process awareness for software development and implementing it Involvement in the recruitment process. Other Business activities as defined by Project Manager.",
             "location": "Bangalore, India",
-            "highlights": [""]
+            "highlights": [""],
+            "id": "a270cb7f-c889-4202-b355-3990143ad888",
+            "place": {
+                "name": "Bangalore, India"
+            },
+            "stillEmployed": false,
+            "index": 4
         },
         {
             "name": "Sigma Infosolutions Ltd",
@@ -83,7 +113,13 @@
             "endDate": "2012-03-31",
             "summary": "Research and development of Groovy & Grails. Designing and implementing software component assigned Write Unit Test case for the component built Do Code Review of the feature built by other team members Help team members technically whenever needed Process awareness for software development and implementing it Involvement in the recruitment process. Other Business activities as defined by Project Manager.",
             "location": "Bangalore, India",
-            "highlights": ["Started the company"]
+            "highlights": ["Started the company"],
+            "id": "72eb4ba0-d9c3-4ca6-b5b6-58d3b6f435be",
+            "place": {
+                "name": "Bangalore, India"
+            },
+            "stillEmployed": false,
+            "index": 5
         }
     ],
     "volunteer": [
@@ -429,12 +465,23 @@
     ],
     "projects": [
         {
+            "description": "This is layered framework consisting 3 layers- UI, Secure Proxy, and Service Layer. Different mini apps are developed using this framework and then are consumed by end users. UI mini app is designed using either ReactJS or AngularJS using the MCA Framework.",
+            "name": "MCA(Multi Channel Application) Framework",
+            "date": {
+                "month": 1,
+                "year": 2022
+            },
+            "id": "6964af07-2bbf-4281-8e3c-3abdfe2f2e76",
+            "endDate": "2022-01-10",
+            "index": 0
+        },
+        {
             "id": "4c362cf5-7948-4c92-b362-bf60793ff898",
             "name": "Borrower Portal (Product)",
             "title": "Projects",
             "description": "We have built a product named as Borrower Portal, This portal creates a way for end-user to apply for a loan. Which includes various steps likes uploading required government documents which help to process the loan application. Provide a way to link end-users bank account which ensures applied loan money deposited into bank account electronically. This uses services like plain / fincity.",
             "endDate": "2018-12-01",
-            "index": 0,
+            "index": 1,
             "link": "",
             "images": [],
             "date": {
@@ -447,7 +494,7 @@
             "name": "Back-Office Portal (Product)",
             "description": "We have built a product named as Back-Office Portal, Which handles loan application, with the various life cycle of loan application and executes various steps including verification using 3rd party providers, generating cash flow and creating reports based on it.",
             "endDate": "2018-12-01",
-            "index": 1,
+            "index": 2,
             "link": "",
             "images": [],
             "date": {
@@ -459,7 +506,7 @@
             "name": "Customer Facing and Back-Office Portal",
             "description": "We created a customer and back-office portal for one of the biggest personal loan provider in USA. Which has various process which are required for a loan application to move further in its lifecycle.",
             "endDate": "2016-03-31",
-            "index": 2,
+            "index": 3,
             "link": "",
             "images": [],
             "date": {
@@ -472,7 +519,7 @@
             "name": "SAAS based Application for Manufactures",
             "description": "Its a high-performance, multi-tenant cloud application. It’s a SAAS based solution for Sales/Marketing team for the Consumer Products industry, that sell products to the retailers.",
             "endDate": "2014-03-31",
-            "index": 3,
+            "index": 4,
             "link": "",
             "images": [],
             "date": {
@@ -485,7 +532,7 @@
             "name": "SAAS Application based on Social Domain",
             "description": "The Social Business Index (SBI) is used to score and rank social network activity about various large MNC's, across the top social networks, including Twitter, LinkedIn and Facebook. Based on the followers of these social networks of various companies, the software arrives at a score (Business Index) and ranks it as per highest to lowest. Each of the products of these companies will be segmented and find the score ratio which will be used for analysis, recommendations and to generate analytical reports, charts etc",
             "endDate": "2013-12-01",
-            "index": 4,
+            "index": 5,
             "link": "",
             "images": [],
             "date": {
@@ -498,7 +545,7 @@
             "name": "SAAS based Application for Tracking Brand’s Social Performance",
             "description": "It is a SAAS web application that tracks the brand’s social activities against brand marketing business outcomes including Brand Awareness, Brand Love, Brand Mindshare, and Brand Advocacy. Unlike alternatives that focus only on simplistic activity counts, it provides metrics correlated to the brand marketing business outcomes and benchmarked against the competitors and industry.",
             "endDate": "2012-12-01",
-            "index": 5,
+            "index": 6,
             "link": "",
             "images": [],
             "date": {
@@ -511,7 +558,7 @@
             "name": "SAAS for Brand’s Advocacy Impact",
             "description": "It is a subscription service that identifies a brand’s top advocates across social channels and measures brand impact, giving a more scalable (and trusted) way of engaging with the audience. It identifies a brand’s advocates by isolating brand-related conversations and applying sentiment and topic analysis, creating a unique window into the people and conversations that reinforce a brand’s message in the market.",
             "endDate": "2012-12-01",
-            "index": 6,
+            "index": 7,
             "link": "",
             "images": [],
             "date": {
@@ -524,7 +571,7 @@
             "name": "SAAS for managing Employees’ Social Advocacy",
             "description": "It is a subscription service that measures the impact of employees’ social activities on a brand and allows for the management of employee advocacy programs, giving brands the ability to scale their engagement across their social audience. Brands can mobilize and measure their employees' social efforts with a Portal and an Employee Leader board, enabling to showcase policies and programs, and providing with insight to posts, followers, sentiment, and echoed signals.",
             "endDate": "2011-12-01",
-            "index": 7,
+            "index": 8,
             "link": "",
             "images": [],
             "date": {
@@ -536,7 +583,7 @@
     "specific": {
         "basics": {
             "visaSponsorship": true,
-            "personalDescription": "Senior UI Developer, Currently working on technology which includes Node.JS, React.JS, Golang, ExpressJS, MongoDB, Docker, Kubernetes, Microservice, REST API etc."
+            "personalDescription": "Associate Architect, Currently working on technology which includes Node.JS, React.JS, Golang, ExpressJS, MongoDB, Docker, Kubernetes, Microservice, REST API etc."
         },
         "dreamJob": {
             "locations": [
@@ -560,11 +607,11 @@
         },
         "work": {
             "contractTypes": ["permanent"],
-            "codingYears": 12,
+            "codingYears": 13,
             "codingReason": "I'm passionate about learning JavaScript and love what I do.",
             "searchState": "openOpportunities",
-            "experienceYears": 12,
-            "codeExperienceYears": 12,
+            "experienceYears": 13,
+            "codeExperienceYears": 13,
             "otherExperienceYears": null
         },
         "sound": {
@@ -627,42 +674,42 @@
         "theme": {
             "palette": {
                 "primary": {
-                    "50": "#eae6ed",
-                    "100": "#d4cddb",
-                    "200": "#aa9bb7",
-                    "300": "#7f6892",
-                    "400": "#55366e",
-                    "500": "#2a044a",
-                    "600": "#22033b",
-                    "700": "#19022c",
-                    "800": "#11021e",
-                    "900": "#08010f",
+                    "50": "#eeeff1",
+                    "100": "#dde0e2",
+                    "200": "#bbc0c6",
+                    "300": "#99a1a9",
+                    "400": "#77818d",
+                    "500": "#556270",
+                    "600": "#444e5a",
+                    "700": "#333b43",
+                    "800": "#22272d",
+                    "900": "#111416",
                     "contrastDefaultColor": "light"
                 },
                 "secondary": {
-                    "50": "#e7eaee",
-                    "100": "#ced5de",
-                    "200": "#9dabbd",
-                    "300": "#6d829b",
-                    "400": "#3c587a",
-                    "500": "#0b2e59",
-                    "600": "#092547",
-                    "700": "#071c35",
-                    "800": "#041224",
-                    "900": "#020912",
+                    "50": "#edfaf9",
+                    "100": "#dcf5f3",
+                    "200": "#b8ebe7",
+                    "300": "#95e1dc",
+                    "400": "#71d7d0",
+                    "500": "#4ecdc4",
+                    "600": "#3ea49d",
+                    "700": "#2f7b76",
+                    "800": "#1f524e",
+                    "900": "#102927",
                     "contrastDefaultColor": "light"
                 },
                 "tertiary": {
-                    "50": "#e7f0ee",
-                    "100": "#cfe1de",
-                    "200": "#9ec2bd",
-                    "300": "#6ea49b",
-                    "400": "#3d857a",
-                    "500": "#0d6759",
-                    "600": "#0a5247",
-                    "700": "#083e35",
-                    "800": "#052924",
-                    "900": "#031512",
+                    "50": "#f9fef0",
+                    "100": "#f4fde0",
+                    "200": "#e9fbc1",
+                    "300": "#ddf8a2",
+                    "400": "#d2f683",
+                    "500": "#c7f464",
+                    "600": "#9fc350",
+                    "700": "#77923c",
+                    "800": "#506228",
+                    "900": "#283114",
                     "contrastDefaultColor": "light"
                 }
             }
