@@ -15,7 +15,6 @@ export const styles = (theme) => {
         place: {
             transformOrigin: 'center left',
             color: secondary[500]
-
         },
         deleteIcon: {
             fill: '#fff',
@@ -23,9 +22,6 @@ export const styles = (theme) => {
             height: 24,
             marginRight: spacing,
             cursor: 'pointer'
-        },
-        sortableHelper: {
-            zIndex: 10000000000
         },
         dragHandleButton: {
             display: 'flex'

@@ -31,7 +31,7 @@ const YearMonthComponent = ({ className, value, onChange, title, error, variant,
         },
         [onChange]
     );
-    const date = useMemo(() => moment(value ? new Date(value.year(), value.month()) : new Date()), [value]);
+    const date = useMemo(() => moment(value ? new Date(value.year(), value.month()) : null), [value]);
     return (
         <div className={cn(className, classes.fieldsContainer)}>
             <div className={classes.selectContainer}>
@@ -40,7 +40,14 @@ const YearMonthComponent = ({ className, value, onChange, title, error, variant,
                         <Typography
                             color="dark"
                             variant="label"
-                            component={({ children, ...props }) => <Twemoji svg text={children} {...props} />}
+                            component={({ children, ...props }) => (
+                                <Twemoji
+                                    options={{ baseUrl: '//cdnjs.cloudflare.com/ajax/libs/twemoji/14.0.2/svg/' }}
+                                    svg
+                                    text={children}
+                                    {...props}
+                                />
+                            )}
                         >
                             {formatMessage(title)}
                         </Typography>
@@ -48,13 +55,15 @@ const YearMonthComponent = ({ className, value, onChange, title, error, variant,
                 </>
                 <LocalizationProvider dateAdapter={AdapterMoment}>
                     <DatePicker
-                        renderInput={(params) => (<TextField
-                            {...textfieldProps}
-                            {...params}
-                            variant={variant}
-                            value={value?.format('MMMM YYYY') || ''}
-                            onClick={() => setIsOpen(true)}
-                        />) }
+                        renderInput={(params) => (
+                            <TextField
+                                {...textfieldProps}
+                                {...params}
+                                variant={variant}
+                                value={value?.format('MMMM YYYY') || ''}
+                                onClick={() => setIsOpen(true)}
+                            />
+                        )}
                         clearable
                         open={isOpen}
                         views={['year', 'month']}

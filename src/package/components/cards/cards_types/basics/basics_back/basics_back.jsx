@@ -17,7 +17,6 @@ import { NoDataButton } from '../../../../commons/no_data_button/no_data_button'
 import { ExperienceYears } from './fields/professional_experience';
 import { CodeExperienceYears } from './fields/code_professional_experience';
 import { OtherExperienceYears } from './fields/other_professional_experience';
-import { CodingYears } from './fields/coding_years';
 import { StudiesLevel } from './fields/studies_level';
 import { useMode } from '../../../../hooks/use_mode';
 
@@ -38,7 +37,8 @@ const BasicsBackComponent = ({ data, handleAddButtonClick }) => {
         codingReason,
         searchState,
         visaSponsorship,
-        personalDescription
+        personalDescription,
+        globalJobTitle
     } = data;
 
     const descriptionContent = useMemo(() => {
@@ -59,6 +59,11 @@ const BasicsBackComponent = ({ data, handleAddButtonClick }) => {
 
     const sections = useMemo(
         () => ({
+            globalJobTitle: {
+                title: globalJobTitle,
+                hide: false,
+                value: null
+            },
             personalDescription: {
                 title: null,
                 hide: false,
@@ -96,11 +101,6 @@ const BasicsBackComponent = ({ data, handleAddButtonClick }) => {
                     </>
                 )
             },
-            codingYears: {
-                title: <FormattedMessage id="Basics.Back.CodingYears.title" defaultMessage="Experience" />,
-                hide: Number.isNaN(Number(codingYears)),
-                value: <CodingYears codingYears={codingYears} />
-            },
             studies: {
                 title: <FormattedMessage id="Basics.Back.StudiesLevel.Title" defaultMessage="Training" />,
                 hide: !studiesLevel,
@@ -133,7 +133,7 @@ const BasicsBackComponent = ({ data, handleAddButtonClick }) => {
                 .map(([id, { title, value }]) => (
                     <ProfileCardSection key={id}>
                         {title && <ProfileCardSectionTitle>{title}</ProfileCardSectionTitle>}
-                        <ProfileCardSectionText>{value}</ProfileCardSectionText>
+                        {value && <ProfileCardSectionText>{value}</ProfileCardSectionText>}
                     </ProfileCardSection>
                 ))}
         </ProfileCardAnimatedBack>
