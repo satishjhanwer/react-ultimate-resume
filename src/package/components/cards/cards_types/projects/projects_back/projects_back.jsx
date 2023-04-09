@@ -25,7 +25,7 @@ const ProjectsBackComponent = ({ data, handleAddButtonClick }) => {
     const imageSrc = useMemo(() => data.projects?.[0]?.images?.url ?? DEFAULT_PROJECT_IMAGE, [
         data.projects?.[0]?.images
     ]);
-    const alt = data.projects?.[0]?.title;
+    const alt = data.projects?.[0]?.title || 'project image';
 
     const handleProjectDeletion = useCallback(
         (indexToDelete) => {
