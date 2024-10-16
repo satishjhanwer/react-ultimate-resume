@@ -20,6 +20,14 @@
     "id": "Form.validation.global.number.min"
   },
   {
+    "defaultMessage": "This field must be greater or equal to {min}",
+    "id": "Form.validation.global.number.minEq"
+  },
+  {
+    "defaultMessage": "This field must be less or equal to {max}",
+    "id": "Form.validation.global.number.maxEq"
+  },
+  {
     "defaultMessage": "This field must be lower than {max}",
     "id": "Form.validation.global.number.max"
   },
@@ -125,7 +133,7 @@
   },
   {
     "defaultMessage": "Responsibilities",
-    "id": "Developer.JobPerks.resopnsabilities"
+    "id": "Developer.JobPerks.responsibilities"
   },
   {
     "defaultMessage": "Perks (meal, tickets,... )",
@@ -157,38 +165,30 @@
   },
   {
     "defaultMessage": "No",
-    "id": "Developer.RemoteFrequency.Select.Never"
+    "id": "Developer.RemoteFrequency.Select.no"
   },
   {
-    "defaultMessage": "Occasionally",
-    "id": "Developer.RemoteFrequency.Select.Occasionally"
+    "defaultMessage": "Yes, partially",
+    "id": "Developer.RemoteFrequency.Select.hybrid"
   },
   {
-    "defaultMessage": "Regularly",
-    "id": "Developer.RemoteFrequency.Select.Regularly"
-  },
-  {
-    "defaultMessage": "Full-time",
-    "id": "Developer.RemoteFrequency.Select.FullTime"
+    "defaultMessage": "Yes, Full time",
+    "id": "Developer.RemoteFrequency.Select.fullTime"
   },
   {
     "defaultMessage": "Other",
     "id": "Developer.RemoteFrequency.Select.Other"
   },
   {
-    "defaultMessage": "I'm not interested by remote work",
-    "id": "Developer.RemoteFrequency.Display.never"
+    "defaultMessage": "I don't want to remote work",
+    "id": "Developer.RemoteFrequency.Display.no"
   },
   {
-    "defaultMessage": "I'm interested by occasional remote work (a few times a month)",
-    "id": "Developer.RemoteFrequency.Display.occasionally"
+    "defaultMessage": "I'd like to remote work {daysPerWeek,plural, =0 { } =1 {(1 day per week)} other {(# days per week)}}",
+    "id": "Developer.RemoteFrequency.Display.hybrid"
   },
   {
-    "defaultMessage": "I'm interested by regular remote work (a few times a week)",
-    "id": "Developer.RemoteFrequency.Display.regularly"
-  },
-  {
-    "defaultMessage": "I'm interested by full-time remote work",
+    "defaultMessage": "I want to work remotely",
     "id": "Developer.RemoteFrequency.Display.fullTime"
   },
   {
@@ -254,6 +254,10 @@
   {
     "defaultMessage": "Save",
     "id": "Main.lang.save"
+  },
+  {
+    "defaultMessage": "(Erreurs dans le formulaire)",
+    "id": "EditDialog.save.hasErrors"
   },
   {
     "defaultMessage": "Error",
@@ -420,10 +424,6 @@
     "id": "Basics.Back.Work.Title"
   },
   {
-    "defaultMessage": "Experience",
-    "id": "Basics.Back.CodingYears.title"
-  },
-  {
     "defaultMessage": "Training",
     "id": "Basics.Back.StudiesLevel.Title"
   },
@@ -440,16 +440,16 @@
     "id": "Basics.editDialog.title"
   },
   {
+    "defaultMessage": "Describe yourself in a few words.",
+    "id": "Basics.editDialog.summary.title"
+  },
+  {
     "defaultMessage": "Do you want to tell a bit more about you?",
     "id": "Basics.editDialog.personalDescription.title"
   },
   {
     "defaultMessage": "Use this space to describe yourself a bit more !",
     "id": "Basics.editDialog.personalDescription.subtitle"
-  },
-  {
-    "defaultMessage": "Describe yourself in a few words.",
-    "id": "Basics.editDialog.summary.title"
   },
   {
     "defaultMessage": "What's your current location?",
@@ -460,16 +460,8 @@
     "id": "Basics.editDialog.searchState.title"
   },
   {
-    "defaultMessage": "How long have you been coding?",
-    "id": "Basics.editDialog.codingYears.title"
-  },
-  {
-    "defaultMessage": "(every experiences, studies, personal projects, work...)",
-    "id": "Basics.editDialog.codingYears.subtitle"
-  },
-  {
-    "defaultMessage": "{countNode} year{count, plural, one {} other {s}}",
-    "id": "Main.lang.years"
+    "defaultMessage": "What's your job title?",
+    "id": "Basics.editDialog.globalJobTitle.title"
   },
   {
     "defaultMessage": "What is your highest level of formal education?",
@@ -478,6 +470,10 @@
   {
     "defaultMessage": "Bachelor = 3 years post graduate. Master = 5 years post graduate.",
     "id": "Basics.editDialog.studiesLevel.subtitle"
+  },
+  {
+    "defaultMessage": "year(s)",
+    "id": "Main.lang.year"
   },
   {
     "defaultMessage": "How many years of professional experience as a developer do you have?",
@@ -528,10 +524,6 @@
     "id": "Dreamjob.Back.Location.CurrentJobIssues.Title"
   },
   {
-    "defaultMessage": "I want to work remotely",
-    "id": "Dreamjob.Back.Location.RemoteOnly"
-  },
-  {
     "defaultMessage": "My dreamjob location",
     "id": "Dreamjob.Back.Location.Title"
   },
@@ -550,6 +542,10 @@
   {
     "defaultMessage": "Do you want to work remotely?",
     "id": "DreamJob.editDialog.remoteFrequency.title"
+  },
+  {
+    "defaultMessage": "How many days per week?",
+    "id": "DreamJob.editDialog.remoteFrequency.daysPerWeek.title"
   },
   {
     "defaultMessage": "What contract types are you currently looking for?",
@@ -930,6 +926,10 @@
   {
     "defaultMessage": "Epitech, Supinfo, 42, ISEN, IG2I...",
     "id": "Studies.editDialog.schoolName.placeholder"
+  },
+  {
+    "defaultMessage": "End year, ex : 2023",
+    "id": "Studies.editDialog.endYear.placeholder"
   },
   {
     "defaultMessage": "Obtained diploma",

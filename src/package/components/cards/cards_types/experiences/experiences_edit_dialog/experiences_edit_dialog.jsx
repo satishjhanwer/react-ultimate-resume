@@ -61,6 +61,9 @@ const ExperiencesEditDialogComponent = ({ open, onClose, data, onEdit, validatio
                     defaultMessage="Edit your professional experiences?"
                 />
             }
+            classes={{
+                paper: 'w-[90vw] min-w-[300px] !max-w-[1280px]'
+            }}
         >
             {(helpers) => <ExperiencesEditFormWrapper helpers={helpers} />}
         </EditDialog>
@@ -211,27 +214,17 @@ const ExperienceItem = ({
                     </Typography>
                 </ListItem>
             </div>
-            <AnimatePresence>
-                {!folded && (
-                    <motion.div
-                        variants={EXPERIENCE_CONTENT_TRANSITION_PROPS}
-                        initial="initial"
-                        animate="animate"
-                        exit="exit"
-                        transition={spring}
-                    >
-                        <ContentFields
-                            fieldErrors={fieldErrors}
-                            id={id}
-                            formatMessage={formatMessage}
-                            experience={experience}
-                            onChange={onChange}
-                            classes={classes}
-                            index={index}
-                        />
-                    </motion.div>
-                )}
-            </AnimatePresence>
+            {!folded && (
+                <ContentFields
+                    fieldErrors={fieldErrors}
+                    id={id}
+                    formatMessage={formatMessage}
+                    experience={experience}
+                    onChange={onChange}
+                    classes={classes}
+                    index={index}
+                />
+            )}
         </div>
     );
 };
@@ -261,10 +254,10 @@ const ContentFields = ({ fieldErrors, id, formatMessage, experience, onChange, c
     ]);
 
     return (
-        <div className={classes.content}>
-            <div className={classes.line} />
+        <div className="flex items-stretch">
+            <div className={'w-[1px] bg-dark-50 mx-2'} />
             <div className={classes.fields}>
-                <div className={classes.fieldRow}>
+                <div className={'flex flex-wrap mb-1'}>
                     <div className={classes.fieldContainer}>
                         <Typography component="p" color="dark" variant="label">
                             {formatMessage(translations.companyName)}
@@ -301,8 +294,6 @@ const ContentFields = ({ fieldErrors, id, formatMessage, experience, onChange, c
                             </Typography>
                         )}
                     </div>
-                </div>
-                <div className={classes.fieldRow}>
                     <div className={classes.fieldContainer}>
                         <Typography component="p" color="dark" variant="label">
                             {formatMessage(translations.jobPlace)}
@@ -323,34 +314,35 @@ const ContentFields = ({ fieldErrors, id, formatMessage, experience, onChange, c
                         )}
                     </div>
                 </div>
-                <div className={cn(classes.fieldRow, classes.yearMonthRow)}>
-                    <div className={classes.yearMonthWrapper}>
+                <div className={'flex flex-wrap mb-1'}>
+                    {/*<div className={classes.yearMonthWrapper}>*/}
+                    <div className={classes.fieldContainer}>
+                        <YearMonth
+                            textfieldProps={{ fullWidth: true }}
+                            variant="flat"
+                            value={experience.startDate}
+                            onChange={handleStartDate}
+                            title={translations.startDate}
+                            error={fieldErrors?.startDate}
+                        />
+                    </div>
+                    {!stillEmployed && (
                         <div className={classes.fieldContainer}>
                             <YearMonth
-                                textfieldProps={{ fullWidth: true }}
                                 variant="flat"
-                                value={experience.startDate}
-                                onChange={handleStartDate}
-                                title={translations.startDate}
-                                error={fieldErrors?.startDate}
+                                value={experience.endDate}
+                                onChange={handleEndDate}
+                                title={translations.endDate}
+                                error={fieldErrors?.endDate}
                             />
                         </div>
-                        {!stillEmployed && (
-                            <div className={classes.fieldContainer}>
-                                <YearMonth
-                                    variant="flat"
-                                    value={experience.endDate}
-                                    onChange={handleEndDate}
-                                    title={translations.endDate}
-                                    error={fieldErrors?.endDate}
-                                />
-                            </div>
-                        )}
-                    </div>
-                    {stillEmployed && stillEmployedComponent}
+                    )}
+                    {stillEmployedComponent}
+
+                    {/*</div>*/}
                 </div>
-                {!stillEmployed && stillEmployedComponent}
-                <div className={classes.fieldRow}>
+
+                <div className={'flex flex-wrap'}>
                     <div className={cn(classes.fieldContainer, classes.fullWidthFieldContainer)}>
                         <Typography component="p" color="dark" variant="label">
                             {formatMessage(translations.descriptionTitle)}
@@ -483,7 +475,7 @@ const ExperiencesEditForm = ({ data, errors, onAdd, onMove, onFieldChange, onDel
     const globalError = typeof errors === 'string' && errors;
 
     return (
-        <div className={classes.container}>
+        <>
             <SortableExperiences
                 onSortEnd={onMove}
                 items={data}
@@ -502,7 +494,7 @@ const ExperiencesEditForm = ({ data, errors, onAdd, onMove, onFieldChange, onDel
                     {errors}
                 </Typography>
             )}
-        </div>
+        </>
     );
 };
 
