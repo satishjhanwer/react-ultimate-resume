@@ -6,22 +6,32 @@
         "email": "satish.jhanwer@gmail.com",
         "phone": "(+91) 70433-94934",
         "website": "",
-        "summary": "Associate Architect",
+        "summary": "Frontend architect passionate about scalable solutions, leading teams, and solving complex challenges.",
         "location": {
             "address": "",
             "postalCode": "342008",
             "city": "Jodhpur",
             "countryCode": "IN",
-            "region": "Rajasthan"
+            "region": "Rajasthan",
+            "name": "Jodhpur, IN"
         },
         "profiles": [
             {
                 "network": "twitter",
-                "username": "@satishjhanwer"
+                "username": "@satishjhanwer",
+                "url": "",
+                "id": "96705ea7-ec60-4b01-8317-18c06533ab68"
+            },
+            {
+                "network": "github",
+                "username": "satishjhanwer",
+                "url": "",
+                "id": "a4cf8fb2-4d85-4e9e-8b1a-22cb557f0613"
             },
             {
                 "network": "linkedin",
-                "url": "https://www.linkedin.com/in/satishjhanwer/"
+                "url": "https://www.linkedin.com/in/satishjhanwer/",
+                "id": "b09d0631-bd94-4ace-8f55-6a467b3e33d1"
             }
         ]
     },
@@ -31,9 +41,11 @@
             "position": "Associate Architect",
             "website": "https://www.lendfoundry.com",
             "startDate": "2022-01-13",
-            "summary": "Research and development of Golang, NodeJS, ReactJS. Designing and implementing software component assigned Write Unit Test case for the component built Do Code Review of the feature built by other team members Help team members technically whenever needed Process awareness for software development and implementing it Involvement in the recruitment process. Providing End to End solutions for the complex problem.",
+            "summary": "    • Upheld optimal performance of UI elements through utilization of coding standards and optimizations techniques.\n    • Developed an approach for creating long-lasting UI modules that could be applied in future ventures.\n    • Applied responsive design strategies to optimized compatibility on mobile devices and tablets\n    • Facilitated the growth of junior developers by offering comprehensive technical guidance and mentorship in UI development tasks and processes.\n    • Contributed feedback during code reviews to enhance team collaboration.\n    • Diligently recorded any updates to the UI, from fixing bugs to improving features.",
             "location": "Jodhpur, India",
-            "highlights": [""],
+            "highlights": [
+                ""
+            ],
             "id": "f3792c0a-8710-469d-afc2-42d29ebb2da4",
             "place": {
                 "name": "Jodhpur, India"
@@ -47,9 +59,11 @@
             "website": "https://www.barclays.in/global-service-centre/btci/",
             "startDate": "2018-12-31",
             "endDate": "2022-01-10",
-            "summary": "Worked on MCA Framework, This is layered framework consisting 3 layers- UI, Secure Proxy, and Service Layer. Different mini apps are developed using this framework and then are consumed by end users. UI mini app is designed using either ReactJS or AngularJS using the MCA Framework.",
+            "summary": "    • Implemented strategies to integrate emerging UX/UI design trends into current offerings.\n    • Provided support to other teams by addressing issues regarding front-end functionality.\n    • Recognized alternative technology options that matched specific client objectives and difficulties.\n    • Implemented and efficient and user-friendly UI Framework across multiple banking software platforms.",
             "location": "Pune, India",
-            "highlights": [""],
+            "highlights": [
+                ""
+            ],
             "id": "0575e6eb-e1d9-4a9b-87e3-4b0044525a15",
             "place": {
                 "name": "Pune, India"
@@ -59,29 +73,15 @@
         },
         {
             "name": "Sigma Infosolutions Ltd",
-            "position": "Associate Technical Architect",
-            "website": "https://www.sigmainfo.net/",
-            "startDate": "2018-08-01",
-            "endDate": "2018-12-14",
-            "summary": "Research and development of Golang, NodeJS, ReactJS. Designing and implementing software component assigned Write Unit Test case for the component built Do Code Review of the feature built by other team members Help team members technically whenever needed Process awareness for software development and implementing it Involvement in the recruitment process. Providing End to End solutions for the complex problem.",
-            "location": "Ahmedabad, India",
-            "highlights": [""],
-            "id": "a6571bc8-2ad2-44d2-8801-244152b23e84",
-            "place": {
-                "name": "Ahmedabad, India"
-            },
-            "stillEmployed": false,
-            "index": 2
-        },
-        {
-            "name": "Sigma Infosolutions Ltd",
             "position": "Senior Software Engineer",
             "website": "https://www.sigmainfo.net/",
             "startDate": "2013-04-01",
-            "endDate": "2018-07-31",
-            "summary": "Research and development of Golang, NodeJS, ReactJS. Designing and implementing software component assigned Write Unit Test case for the component built Do Code Review of the feature built by other team members Help team members technically whenever needed Process awareness for software development and implementing it Involvement in the recruitment process. Other Business activities as defined by Project Manager.",
+            "endDate": "2018-12-01",
+            "summary": "    • Provided technical assistance to junior developers in debugging code.\n    • Collaborated with team members to ensure successful project completion with timeline constraints.\n    • Mentored and developed junior developers and engineers to increase productivity.\n    • Conducted extensive research to identify cutting-edge technology for project implementation.",
             "location": "Ahmedabad, India",
-            "highlights": [""],
+            "highlights": [
+                ""
+            ],
             "id": "16acc509-8a5e-466d-953f-e17cbc814149",
             "place": {
                 "name": "Ahmedabad, India"
@@ -95,9 +95,11 @@
             "website": "https://www.sigmainfo.net/",
             "startDate": "2012-04-01",
             "endDate": "2013-03-31",
-            "summary": "Research and development of Groovy & Grails. Designing and implementing software component assigned Write Unit Test case for the component built Do Code Review of the feature built by other team members Help team members technically whenever needed Process awareness for software development and implementing it Involvement in the recruitment process. Other Business activities as defined by Project Manager.",
+            "summary": "    • Analyzed user requirements to develop software solutions and created technical specifications.\n    • Developed, tested, debugged and documented software programs using Groovy, JavaScript, jQuery and HTML and CSS.\n    • Researched emerging technologies for potential implementation in current products.\n    • Proposed innovative ideas for enhancing existing applications based on the industry trends.\n    • Utilized multiple engineering languages to create and deploy various web applications.",
             "location": "Bangalore, India",
-            "highlights": [""],
+            "highlights": [
+                ""
+            ],
             "id": "a270cb7f-c889-4202-b355-3990143ad888",
             "place": {
                 "name": "Bangalore, India"
@@ -111,9 +113,11 @@
             "website": "https://www.sigmainfo.net/",
             "startDate": "2010-10-14",
             "endDate": "2012-03-31",
-            "summary": "Research and development of Groovy & Grails. Designing and implementing software component assigned Write Unit Test case for the component built Do Code Review of the feature built by other team members Help team members technically whenever needed Process awareness for software development and implementing it Involvement in the recruitment process. Other Business activities as defined by Project Manager.",
+            "summary": "    • Analyzed user requirements to develop software solutions and created technical specifications.\n    • Developed, tested, debugged and documented software programs using Groovy, JavaScript, jQuery and HTML and CSS.\n    • Researched emerging technologies for potential implementation in current products.\n    • Proposed innovative ideas for enhancing existing applications based on the industry trends.\n    • Utilized multiple engineering languages to create and deploy various web applications.",
             "location": "Bangalore, India",
-            "highlights": ["Started the company"],
+            "highlights": [
+                "Started the company"
+            ],
             "id": "72eb4ba0-d9c3-4ca6-b5b6-58d3b6f435be",
             "place": {
                 "name": "Bangalore, India"
@@ -129,39 +133,58 @@
             "website": "http://organization.com/",
             "endDate": "2013-01-01",
             "summary": "Description...",
-            "highlights": ["Awarded 'Volunteer of the Month'"]
+            "highlights": [
+                "Awarded 'Volunteer of the Month'"
+            ]
         }
     ],
     "education": [
         {
+            "position": 3,
+            "id": "f2a8dc2f-b1a1-4e84-8711-c0b617f1813a",
+            "studyType": "M.Tech. Degree",
+            "area": "AI & ML",
+            "endDate": "2026-01-31T18:30:00.000Z",
+            "institution": "IIT, Jodhpur"
+        },
+        {
             "position": 0,
-            "institution": "Rajasthan Technical University",
-            "area": "Software Development",
-            "studyType": "Engineer Degree",
+            "institution": "Rajasthan Technical University, Kota",
+            "area": "Information Technology",
+            "studyType": "B.Tech. Degree",
             "startDate": "2006-07-01",
-            "endDate": "2010-07-01",
+            "endDate": "2010-01-31T18:30:00.000Z",
             "gpa": "75%",
-            "courses": ["Information Technology"]
+            "courses": [
+                "Information Technology"
+            ],
+            "id": "2f7316f2-0918-4c09-a076-174843009153"
         },
         {
             "position": 1,
             "institution": "Board of Secondary Education, Rajasthan",
-            "area": "",
+            "area": "Science Maths",
             "studyType": "Senior Secondary",
             "startDate": "2006-06-01",
-            "endDate": "2005-07-01",
+            "endDate": "2005-01-31T18:30:00.000Z",
             "gpa": "78%",
-            "courses": [""]
+            "courses": [
+                ""
+            ],
+            "id": "f85bac8e-85c4-42e5-92e8-d01150a36af3"
         },
         {
             "position": 2,
             "institution": "Board of Secondary Education, Rajasthan",
-            "area": "",
+            "area": "All Subjects",
             "studyType": "Secondary",
             "startDate": "2003-07-01",
-            "endDate": "2004-06-01",
+            "endDate": "2004-01-31T18:30:00.000Z",
             "gpa": "72%",
-            "courses": [""]
+            "courses": [
+                ""
+            ],
+            "id": "cdc2325d-9b7c-4a32-ac17-f664382d9383"
         }
     ],
     "awards": [
@@ -198,13 +221,21 @@
             "name": "React",
             "value": 100,
             "id": "c0d86fc5-ce81-48ec-82d3-3ce3a1ec70ad",
-            "keywords": ["HTML", "CSS", "Javascript"]
+            "keywords": [
+                "HTML",
+                "CSS",
+                "Javascript"
+            ]
         },
         {
             "name": "NodeJS",
             "value": 100,
             "id": "e8d6366c-e01c-4f40-b20b-5acdbe7b9914",
-            "keywords": ["HTML", "CSS", "Javascript"]
+            "keywords": [
+                "HTML",
+                "CSS",
+                "Javascript"
+            ]
         },
         {
             "name": "Typescript",
@@ -225,7 +256,11 @@
             "name": "AngularJS",
             "value": 100,
             "id": "3c392fc4-cbd9-4e3c-b968-1f03ea8550e7",
-            "keywords": ["HTML", "CSS", "Javascript"]
+            "keywords": [
+                "HTML",
+                "CSS",
+                "Javascript"
+            ]
         },
         {
             "name": "Gulp",
@@ -416,13 +451,17 @@
     "languages": [
         {
             "language": "English",
-            "value": 100,
-            "fluency": "Expert"
+            "value": 80,
+            "fluency": "Expert",
+            "id": "50be0f3d-112d-4deb-9e89-9ff0e2fc32b4",
+            "index": 0
         },
         {
             "language": "Hindi",
             "value": 100,
-            "fluency": "Native speaker"
+            "fluency": "Native speaker",
+            "id": "4a97ea3a-22cb-4a2b-9c13-2826e2c860f2",
+            "index": 1
         }
     ],
     "interests": [
@@ -583,41 +622,87 @@
     "specific": {
         "basics": {
             "visaSponsorship": true,
-            "personalDescription": "Associate Architect, Currently working on technology which includes Node.JS, React.JS, Golang, ExpressJS, MongoDB, Docker, Kubernetes, Microservice, REST API etc."
+            "personalDescription": "With over 14 years in software development, I specialize in front-end technologies, including React JS, and have a keen interest in UI and Motion animation. My career is marked by leading projects from inception to deployment, demonstrating a strong commitment to modern web standards and innovative development techniques.",
+            "globalJobTitle": "Associate Architect"
         },
         "dreamJob": {
             "locations": [
                 {
-                    "name": "India"
+                    "name": "United States",
+                    "id": "4316da49-aa9d-4b41-9770-95da0aaf0741",
+                    "index": 0
+                },
+                {
+                    "name": "United Kingdom",
+                    "id": "a9437cfc-9c66-4a7a-9b58-674e85881e5f",
+                    "index": 1
+                },
+                {
+                    "name": "Canada",
+                    "id": "01ca2265-bc7b-4f5d-8432-a46b7b508276",
+                    "index": 2
+                },
+                {
+                    "name": "Australia",
+                    "id": "b837d44e-b36c-45c7-97ca-24db97b3b6ec",
+                    "index": 3
+                },
+                {
+                    "name": "Switzerland",
+                    "id": "344f3d68-17bb-4584-9c72-0301c9c677f5",
+                    "index": 4
+                },
+                {
+                    "name": "Netherlands",
+                    "id": "c8626be8-a364-4603-a084-876e98c9897e",
+                    "index": 5
+                },
+                {
+                    "name": "Singapore",
+                    "id": "92b553b1-4774-41cc-ae1b-6787224ce4f6",
+                    "index": 6
+                },
+                {
+                    "name": "Japan",
+                    "id": "f338387f-4d61-48e1-b081-7874bb0fbd9f",
+                    "index": 7
                 }
             ],
+            "remoteFrequency": {
+                "frequency": "hybrid",
+                "daysPerWeek": 2
+            },
             "perks": {
                 "mood": true,
-                "challenge": true,
                 "work_hours": true,
                 "responsibilities": true,
+                "perks": true,
                 "training": true,
-                "salary": true,
-                "perks": true
-            },
-            "remoteFrequency": "regularly"
+                "challenge": true,
+                "salary": true
+            }
+        },
+        "currentJob": {
+            "issues": {}
         },
         "education": {
             "studiesLevel": 4
         },
         "work": {
-            "contractTypes": ["permanent"],
-            "codingYears": 13,
-            "codingReason": "I'm passionate about learning JavaScript and love what I do.",
+            "contractTypes": [
+                "permanent"
+            ],
+            "codingYears": 14,
+            "codingReason": " I'm motivated by the challenge of creating seamless user experiences, solving complex problems through clean, efficient code, and continuously evolving with the fast-paced tech landscape.",
             "searchState": "openOpportunities",
-            "experienceYears": 13,
-            "codeExperienceYears": 13,
-            "otherExperienceYears": null
+            "experienceYears": 14,
+            "codeExperienceYears": 14,
+            "otherExperienceYears": 0
         },
         "sound": {
             "embedUrl": ""
         },
-        "interestedBy": "I am interested in Javascript Technology."
+        "interestedBy": "I'm particularly interested in cutting-edge frontend technologies like React, Angular, and Vue.js, as well as modern development tools such as TypeScript, GraphQL, WebAssembly, and progressive web apps (PWAs). I'm also keen on exploring advancements in web performance optimization, server-side rendering (SSR), micro frontend, and cloud-native solutions for frontend scalability. Continuous learning and experimenting with new frameworks and architectures keep me motivated."
     },
     "resumeCustomization": {
         "imageHeader": {
@@ -674,42 +759,42 @@
         "theme": {
             "palette": {
                 "primary": {
-                    "50": "#ede7ec",
-                    "100": "#dbced8",
-                    "200": "#b69db1",
-                    "300": "#926c8b",
-                    "400": "#6d3b64",
-                    "500": "#490a3d",
-                    "600": "#3a0831",
-                    "700": "#2c0625",
-                    "800": "#1d0418",
-                    "900": "#0f020c",
+                    "50": "#edebeb",
+                    "100": "#dbd8d8",
+                    "200": "#b8b1b1",
+                    "300": "#948989",
+                    "400": "#716262",
+                    "500": "#4d3b3b",
+                    "600": "#3e2f2f",
+                    "700": "#2e2323",
+                    "800": "#1f1818",
+                    "900": "#0f0c0c",
                     "contrastDefaultColor": "light"
                 },
                 "secondary": {
-                    "50": "#f8e8ee",
-                    "100": "#f2d0dc",
-                    "200": "#e5a1b9",
-                    "300": "#d77396",
-                    "400": "#ca4473",
-                    "500": "#bd1550",
-                    "600": "#971140",
-                    "700": "#710d30",
-                    "800": "#4c0820",
-                    "900": "#260410",
+                    "50": "#fcefef",
+                    "100": "#f8e0e0",
+                    "200": "#f2c0c0",
+                    "300": "#eba1a1",
+                    "400": "#e58181",
+                    "500": "#de6262",
+                    "600": "#b24e4e",
+                    "700": "#853b3b",
+                    "800": "#592727",
+                    "900": "#2c1414",
                     "contrastDefaultColor": "light"
                 },
                 "tertiary": {
-                    "50": "#fdf2e6",
-                    "100": "#fbe5cc",
-                    "200": "#f6cc9a",
-                    "300": "#f2b267",
-                    "400": "#ed9935",
-                    "500": "#e97f02",
-                    "600": "#ba6602",
-                    "700": "#8c4c01",
-                    "800": "#5d3301",
-                    "900": "#2f1900",
+                    "50": "#fff8f4",
+                    "100": "#fff1e8",
+                    "200": "#ffe3d1",
+                    "300": "#ffd4ba",
+                    "400": "#ffc6a3",
+                    "500": "#ffb88c",
+                    "600": "#cc9370",
+                    "700": "#996e54",
+                    "800": "#664a38",
+                    "900": "#33251c",
                     "contrastDefaultColor": "light"
                 }
             }
