@@ -14,7 +14,7 @@ import { useCardVariant } from '../../../../hooks/profile_card_hooks/use_card_va
 import { DeveloperProfileContext } from '../../../../../utils/context/contexts';
 import { existsAndNotEmpty } from '../../../utils/exists_and_not_empty';
 import { NoProject } from './no_project/no_project';
-
+import project_image_v5 from '../../../../../assets/project_image_v5.webp';
 const useStyles = makeStyles(styles);
 
 const ProjectsBackComponent = ({ data, handleAddButtonClick }) => {
@@ -44,7 +44,7 @@ const ProjectsBackComponent = ({ data, handleAddButtonClick }) => {
                 }}
                 beforeTypography={
                     <div className={classes.background}>
-                        {imageSrc && <img className={classes.backgroundImage} src={imageSrc} alt={alt} />}
+                        {imageSrc && <img className={classes.backgroundImage} src={project_image_v5} alt={alt} />}
                         {!imageSrc && <div className={classes.stubBackground} />}
                     </div>
                 }

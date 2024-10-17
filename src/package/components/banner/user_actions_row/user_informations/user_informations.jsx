@@ -17,6 +17,8 @@ import { ContactInfos } from './contact_infos/contact_infos';
 import { useOptions } from '../../../hooks/use_options';
 import { useIsEditing } from '../../../hooks/use_is_editing';
 
+import profile_picture from '../../../../assets/2142954.webp';
+
 const useStyles = makeStyles(styles);
 
 export const UserInformations = () => {
@@ -44,7 +46,7 @@ export const UserInformations = () => {
     const classes = useStyles();
     return (
         <div className={classes.container}>
-            <Avatar src={data.basics?.picture} displayedName={data.basics?.name} />
+            <Avatar src={profile_picture} displayedName={data.basics?.name} />
             <Column classes={{ container: classes.textColumn }}>
                 <Typography
                     classes={{

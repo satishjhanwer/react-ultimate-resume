@@ -17,6 +17,7 @@ import { DEFAULT_PROJECT_IMAGE } from '../utils/images';
 import { styles } from './projects_front_styles';
 import { existsAndNotEmpty } from '../../../utils/exists_and_not_empty';
 import { NoDataButton } from '../../../../commons/no_data_button/no_data_button';
+import project_image_v5 from '../../../../../assets/project_image_v5.webp';
 
 const useStyles = makeStyles(styles);
 
@@ -51,7 +52,7 @@ const ProjectsFrontComponent = ({ data, handleAddButtonClick }) => {
     return (
         <>
             <div className={classes.background}>
-                {imageSrc && <img className={classes.backgroundImage} src={imageSrc} alt={alt} />}
+                {imageSrc && <img className={classes.backgroundImage} src={project_image_v5} alt={alt} />}
             </div>
             <div className={classes.content}>
                 <Content

@@ -6,7 +6,7 @@ import { FormattedMessage } from 'react-intl';
 import { AnimatePresence, motion } from 'framer-motion';
 
 import { Typography } from '@welovedevs/ui';
-
+import W3D_banner_V5 from '../../assets/W3D_banner_V5.webp';
 import { UserInformations } from './user_actions_row/user_informations/user_informations';
 import { SocialActions } from './user_actions_row/social_actions/social_actions';
 import { CustomizeButton } from './user_actions_row/customize_button/customize_button';
@@ -44,12 +44,13 @@ const BannerComponent = ({ customizationOptions, onCustomizationChanged }) => {
                 {imageInformations && (
                     <motion.img
                         className={classes.image}
-                        src={imageInformations?.url}
+                        src={W3D_banner_V5}
                         alt={imageInformations?.alt}
                         variants={OPACITY_TRANSITIONS}
                         transition={{ duration: 1 }}
                         initial="initial"
                         animate="animate"
+                        fetchPriority="high"
                         exit="exit"
                     />
                 )}
