@@ -144,7 +144,8 @@
             "id": "f2a8dc2f-b1a1-4e84-8711-c0b617f1813a",
             "studyType": "M.Tech. Degree",
             "area": "AI & ML",
-            "endDate": "2026-01-31T18:30:00.000Z",
+            "startDate": "2024-07-26",
+            "endDate": "2026-07-31",
             "institution": "IIT, Jodhpur"
         },
         {
@@ -153,7 +154,7 @@
             "area": "Information Technology",
             "studyType": "B.Tech. Degree",
             "startDate": "2006-07-01",
-            "endDate": "2010-01-31T18:30:00.000Z",
+            "endDate": "2010-07-31",
             "gpa": "75%",
             "courses": [
                 "Information Technology"
@@ -165,8 +166,8 @@
             "institution": "Board of Secondary Education, Rajasthan",
             "area": "Science Maths",
             "studyType": "Senior Secondary",
-            "startDate": "2006-06-01",
-            "endDate": "2005-01-31T18:30:00.000Z",
+            "startDate": "2006-05-30",
+            "endDate": "2005-07-01",
             "gpa": "78%",
             "courses": [
                 ""
@@ -178,8 +179,8 @@
             "institution": "Board of Secondary Education, Rajasthan",
             "area": "All Subjects",
             "studyType": "Secondary",
-            "startDate": "2003-07-01",
-            "endDate": "2004-01-31T18:30:00.000Z",
+            "startDate": "2003-05-30",
+            "endDate": "2004-07-01",
             "gpa": "72%",
             "courses": [
                 ""
