@@ -1,19 +1,19 @@
 {
     "basics": {
         "name": "Satish Jhanwer",
-        "label": "Associate Architect",
+        "label": "Senior Software Engineering Lead",
         "picture": "https://avatars0.githubusercontent.com/u/2142954?s=460&u=498eb6a32aaeb1481f61e9983d2d14542a47ef0a&v=4",
         "email": "satish.jhanwer@gmail.com",
         "phone": "(+91) 70433-94934",
         "website": "",
-        "summary": "Frontend architect passionate about scalable solutions, leading teams, and solving complex challenges.",
+        "summary": "Senior Software Engineering Lead passionate about scalable solutions, leading teams, and solving complex challenges.",
         "location": {
             "address": "",
-            "postalCode": "342008",
-            "city": "Jodhpur",
+            "postalCode": "560102",
+            "city": "Bengaluru",
             "countryCode": "IN",
-            "region": "Rajasthan",
-            "name": "Jodhpur, IN"
+            "region": "Karnataka",
+            "name": "Bengaluru, IN"
         },
         "profiles": [
             {
@@ -36,11 +36,28 @@
         ]
     },
     "work": [
+                {
+            "name": "UnitedHealth Group",
+            "position": "Senior Software Engineering Lead",
+            "website": "https://www.unitedhealthgroup.com/",
+            "startDate": "2025-11-24",
+            "summary": "    • Upheld optimal performance of UI elements through utilization of coding standards and optimizations techniques.\n    • Developed an approach for creating long-lasting UI modules that could be applied in future ventures.\n    • Applied responsive design strategies to optimized compatibility on mobile devices and tablets\n    • Facilitated the growth of junior developers by offering comprehensive technical guidance and mentorship in UI development tasks and processes.\n    • Contributed feedback during code reviews to enhance team collaboration.\n    • Diligently recorded any updates to the UI, from fixing bugs to improving features.",
+            "location": "Bengaluru, India",
+            "highlights": [
+                ""
+            ],
+            "place": {
+                "name": "Bengaluru, India"
+            },
+            "stillEmployed": true,
+            "index": 0
+        },
         {
             "name": "Sigma Infosolutions Ltd",
             "position": "Associate Architect",
             "website": "https://www.lendfoundry.com",
             "startDate": "2022-01-13",
+            "endDate": "2025-09-12",
             "summary": "    • Upheld optimal performance of UI elements through utilization of coding standards and optimizations techniques.\n    • Developed an approach for creating long-lasting UI modules that could be applied in future ventures.\n    • Applied responsive design strategies to optimized compatibility on mobile devices and tablets\n    • Facilitated the growth of junior developers by offering comprehensive technical guidance and mentorship in UI development tasks and processes.\n    • Contributed feedback during code reviews to enhance team collaboration.\n    • Diligently recorded any updates to the UI, from fixing bugs to improving features.",
             "location": "Jodhpur, India",
             "highlights": [
@@ -96,13 +113,13 @@
             "startDate": "2012-04-01",
             "endDate": "2013-03-31",
             "summary": "    • Analyzed user requirements to develop software solutions and created technical specifications.\n    • Developed, tested, debugged and documented software programs using Groovy, JavaScript, jQuery and HTML and CSS.\n    • Researched emerging technologies for potential implementation in current products.\n    • Proposed innovative ideas for enhancing existing applications based on the industry trends.\n    • Utilized multiple engineering languages to create and deploy various web applications.",
-            "location": "Bangalore, India",
+            "location": "Bengaluru, India",
             "highlights": [
                 ""
             ],
             "id": "a270cb7f-c889-4202-b355-3990143ad888",
             "place": {
-                "name": "Bangalore, India"
+                "name": "Bengaluru, India"
             },
             "stillEmployed": false,
             "index": 4
@@ -114,13 +131,13 @@
             "startDate": "2010-10-14",
             "endDate": "2012-03-31",
             "summary": "    • Analyzed user requirements to develop software solutions and created technical specifications.\n    • Developed, tested, debugged and documented software programs using Groovy, JavaScript, jQuery and HTML and CSS.\n    • Researched emerging technologies for potential implementation in current products.\n    • Proposed innovative ideas for enhancing existing applications based on the industry trends.\n    • Utilized multiple engineering languages to create and deploy various web applications.",
-            "location": "Bangalore, India",
+            "location": "Bengaluru, India",
             "highlights": [
                 "Started the company"
             ],
             "id": "72eb4ba0-d9c3-4ca6-b5b6-58d3b6f435be",
             "place": {
-                "name": "Bangalore, India"
+                "name": "Bengaluru, India"
             },
             "stillEmployed": false,
             "index": 5

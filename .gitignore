@@ -189,5 +189,6 @@ bower_componets
 psd
 thumb
 sketch
+.history
 
 # End of https://www.gitignore.io/api/node,react,intellij+iml
