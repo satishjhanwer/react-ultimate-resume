@@ -1,821 +1,821 @@
 {
-    "basics": {
-        "name": "Satish Jhanwer",
-        "label": "Senior Software Engineering Lead",
-        "picture": "https://avatars0.githubusercontent.com/u/2142954?s=460&u=498eb6a32aaeb1481f61e9983d2d14542a47ef0a&v=4",
-        "email": "satish.jhanwer@gmail.com",
-        "phone": "(+91) 70433-94934",
-        "website": "",
-        "summary": "Senior Software Engineering Lead passionate about scalable solutions, leading teams, and solving complex challenges.",
-        "location": {
-            "address": "",
-            "postalCode": "560102",
-            "city": "Bengaluru",
-            "countryCode": "IN",
-            "region": "Karnataka",
-            "name": "Bengaluru, IN"
-        },
-        "profiles": [
-            {
-                "network": "twitter",
-                "username": "@satishjhanwer",
-                "url": "",
-                "id": "96705ea7-ec60-4b01-8317-18c06533ab68"
-            },
-            {
-                "network": "github",
-                "username": "satishjhanwer",
-                "url": "",
-                "id": "a4cf8fb2-4d85-4e9e-8b1a-22cb557f0613"
-            },
-            {
-                "network": "linkedin",
-                "url": "https://www.linkedin.com/in/satishjhanwer/",
-                "id": "b09d0631-bd94-4ace-8f55-6a467b3e33d1"
-            }
-        ]
+  "basics": {
+    "name": "Satish Jhanwer",
+    "label": "Senior Software Engineering Lead",
+    "picture": "https://avatars0.githubusercontent.com/u/2142954?s=460&u=498eb6a32aaeb1481f61e9983d2d14542a47ef0a&v=4",
+    "email": "satish.jhanwer@gmail.com",
+    "phone": "(+91) 70433-94934",
+    "website": "",
+    "summary": "SSE Lead passionate about scalable solutions, leading teams, and solving complex challenges.",
+    "location": {
+      "address": "",
+      "postalCode": "560102",
+      "city": "Bengaluru, IN",
+      "countryCode": "IN",
+      "region": "Karnataka",
+      "name": "Bengaluru, IN"
     },
-    "work": [
-                {
-            "name": "UnitedHealth Group",
-            "position": "Senior Software Engineering Lead",
-            "website": "https://www.unitedhealthgroup.com/",
-            "startDate": "2025-11-24",
-            "summary": "    • Upheld optimal performance of UI elements through utilization of coding standards and optimizations techniques.\n    • Developed an approach for creating long-lasting UI modules that could be applied in future ventures.\n    • Applied responsive design strategies to optimized compatibility on mobile devices and tablets\n    • Facilitated the growth of junior developers by offering comprehensive technical guidance and mentorship in UI development tasks and processes.\n    • Contributed feedback during code reviews to enhance team collaboration.\n    • Diligently recorded any updates to the UI, from fixing bugs to improving features.",
-            "location": "Bengaluru, India",
-            "highlights": [
-                ""
-            ],
-            "place": {
-                "name": "Bengaluru, India"
-            },
-            "stillEmployed": true,
-            "index": 0
-        },
-        {
-            "name": "Sigma Infosolutions Ltd",
-            "position": "Associate Architect",
-            "website": "https://www.lendfoundry.com",
-            "startDate": "2022-01-13",
-            "endDate": "2025-09-12",
-            "summary": "    • Upheld optimal performance of UI elements through utilization of coding standards and optimizations techniques.\n    • Developed an approach for creating long-lasting UI modules that could be applied in future ventures.\n    • Applied responsive design strategies to optimized compatibility on mobile devices and tablets\n    • Facilitated the growth of junior developers by offering comprehensive technical guidance and mentorship in UI development tasks and processes.\n    • Contributed feedback during code reviews to enhance team collaboration.\n    • Diligently recorded any updates to the UI, from fixing bugs to improving features.",
-            "location": "Jodhpur, India",
-            "highlights": [
-                ""
-            ],
-            "id": "f3792c0a-8710-469d-afc2-42d29ebb2da4",
-            "place": {
-                "name": "Jodhpur, India"
-            },
-            "stillEmployed": true,
-            "index": 0
-        },
-        {
-            "name": "Barclays Global Service Centre",
-            "position": "Senior UI Developer",
-            "website": "https://www.barclays.in/global-service-centre/btci/",
-            "startDate": "2018-12-31",
-            "endDate": "2022-01-10",
-            "summary": "    • Implemented strategies to integrate emerging UX/UI design trends into current offerings.\n    • Provided support to other teams by addressing issues regarding front-end functionality.\n    • Recognized alternative technology options that matched specific client objectives and difficulties.\n    • Implemented and efficient and user-friendly UI Framework across multiple banking software platforms.",
-            "location": "Pune, India",
-            "highlights": [
-                ""
-            ],
-            "id": "0575e6eb-e1d9-4a9b-87e3-4b0044525a15",
-            "place": {
-                "name": "Pune, India"
-            },
-            "stillEmployed": false,
-            "index": 1
-        },
-        {
-            "name": "Sigma Infosolutions Ltd",
-            "position": "Senior Software Engineer",
-            "website": "https://www.sigmainfo.net/",
-            "startDate": "2013-04-01",
-            "endDate": "2018-12-01",
-            "summary": "    • Provided technical assistance to junior developers in debugging code.\n    • Collaborated with team members to ensure successful project completion with timeline constraints.\n    • Mentored and developed junior developers and engineers to increase productivity.\n    • Conducted extensive research to identify cutting-edge technology for project implementation.",
-            "location": "Ahmedabad, India",
-            "highlights": [
-                ""
-            ],
-            "id": "16acc509-8a5e-466d-953f-e17cbc814149",
-            "place": {
-                "name": "Ahmedabad, India"
-            },
-            "stillEmployed": false,
-            "index": 3
-        },
-        {
-            "name": "Sigma Infosolutions Ltd",
-            "position": "Software Engineer",
-            "website": "https://www.sigmainfo.net/",
-            "startDate": "2012-04-01",
-            "endDate": "2013-03-31",
-            "summary": "    • Analyzed user requirements to develop software solutions and created technical specifications.\n    • Developed, tested, debugged and documented software programs using Groovy, JavaScript, jQuery and HTML and CSS.\n    • Researched emerging technologies for potential implementation in current products.\n    • Proposed innovative ideas for enhancing existing applications based on the industry trends.\n    • Utilized multiple engineering languages to create and deploy various web applications.",
-            "location": "Bengaluru, India",
-            "highlights": [
-                ""
-            ],
-            "id": "a270cb7f-c889-4202-b355-3990143ad888",
-            "place": {
-                "name": "Bengaluru, India"
-            },
-            "stillEmployed": false,
-            "index": 4
-        },
-        {
-            "name": "Sigma Infosolutions Ltd",
-            "position": "Associate Software Engineer",
-            "website": "https://www.sigmainfo.net/",
-            "startDate": "2010-10-14",
-            "endDate": "2012-03-31",
-            "summary": "    • Analyzed user requirements to develop software solutions and created technical specifications.\n    • Developed, tested, debugged and documented software programs using Groovy, JavaScript, jQuery and HTML and CSS.\n    • Researched emerging technologies for potential implementation in current products.\n    • Proposed innovative ideas for enhancing existing applications based on the industry trends.\n    • Utilized multiple engineering languages to create and deploy various web applications.",
-            "location": "Bengaluru, India",
-            "highlights": [
-                "Started the company"
-            ],
-            "id": "72eb4ba0-d9c3-4ca6-b5b6-58d3b6f435be",
-            "place": {
-                "name": "Bengaluru, India"
-            },
-            "stillEmployed": false,
-            "index": 5
-        }
-    ],
-    "volunteer": [
-        {
-            "organization": "Organization",
-            "position": "Volunteer",
-            "website": "http://organization.com/",
-            "endDate": "2013-01-01",
-            "summary": "Description...",
-            "highlights": [
-                "Awarded 'Volunteer of the Month'"
-            ]
-        }
-    ],
-    "education": [
-        {
-            "position": 3,
-            "id": "f2a8dc2f-b1a1-4e84-8711-c0b617f1813a",
-            "studyType": "M.Tech. Degree",
-            "area": "AI & ML",
-            "startDate": "2024-07-26",
-            "endDate": "2026-07-31",
-            "institution": "IIT, Jodhpur"
-        },
-        {
-            "position": 0,
-            "institution": "Rajasthan Technical University, Kota",
-            "area": "Information Technology",
-            "studyType": "B.Tech. Degree",
-            "startDate": "2006-07-01",
-            "endDate": "2010-07-31",
-            "gpa": "75%",
-            "courses": [
-                "Information Technology"
-            ],
-            "id": "2f7316f2-0918-4c09-a076-174843009153"
-        },
-        {
-            "position": 1,
-            "institution": "Board of Secondary Education, Rajasthan",
-            "area": "Science Maths",
-            "studyType": "Senior Secondary",
-            "startDate": "2006-05-30",
-            "endDate": "2005-07-01",
-            "gpa": "78%",
-            "courses": [
-                ""
-            ],
-            "id": "f85bac8e-85c4-42e5-92e8-d01150a36af3"
-        },
-        {
-            "position": 2,
-            "institution": "Board of Secondary Education, Rajasthan",
-            "area": "All Subjects",
-            "studyType": "Secondary",
-            "startDate": "2003-05-30",
-            "endDate": "2004-07-01",
-            "gpa": "72%",
-            "courses": [
-                ""
-            ],
-            "id": "cdc2325d-9b7c-4a32-ac17-f664382d9383"
-        }
-    ],
-    "awards": [
-        {
-            "title": "Quarterly Appreciation Award",
-            "date": "2015-08-01",
-            "awarder": "Sigma Infosolutions Ltd",
-            "summary": ""
-        },
-        {
-            "title": "Spot Award",
-            "date": "2014-10-01",
-            "awarder": "Sigma Infosolutions Ltd",
-            "summary": ""
-        },
-        {
-            "title": "Debut Employee Award",
-            "date": "2010-11-01",
-            "awarder": "Sigma Infosolutions Ltd",
-            "summary": ""
-        }
-    ],
-    "publications": [
-        {
-            "name": "Publication",
-            "publisher": "Company",
-            "releaseDate": "2014-10-01",
-            "website": "http://publication.com",
-            "summary": "Description..."
-        }
-    ],
-    "skills": [
-        {
-            "name": "React",
-            "value": 100,
-            "id": "c0d86fc5-ce81-48ec-82d3-3ce3a1ec70ad",
-            "keywords": [
-                "HTML",
-                "CSS",
-                "Javascript"
-            ]
-        },
-        {
-            "name": "NodeJS",
-            "value": 100,
-            "id": "e8d6366c-e01c-4f40-b20b-5acdbe7b9914",
-            "keywords": [
-                "HTML",
-                "CSS",
-                "Javascript"
-            ]
-        },
-        {
-            "name": "Typescript",
-            "value": 100,
-            "id": "d3c545e4-50f1-4ede-9537-e319195e3235"
-        },
-        {
-            "name": "Javascript",
-            "value": 100,
-            "id": "fbaed602-f51f-427c-bc54-3edded7195d8"
-        },
-        {
-            "name": "Redux",
-            "value": 100,
-            "id": "7f28311f-daee-44aa-8681-c9b8ecb3bb09"
-        },
-        {
-            "name": "AngularJS",
-            "value": 100,
-            "id": "3c392fc4-cbd9-4e3c-b968-1f03ea8550e7",
-            "keywords": [
-                "HTML",
-                "CSS",
-                "Javascript"
-            ]
-        },
-        {
-            "name": "Gulp",
-            "value": 100,
-            "id": "2f085452-c3ae-403c-a4b5-65bc625e7985"
-        },
-        {
-            "name": "Grunt",
-            "value": 100,
-            "id": "72598cf6-1779-4cf4-b0e6-21925e986e7b"
-        },
-        {
-            "name": "Express",
-            "value": 100,
-            "id": "2c054467-6b7d-44eb-956c-f08bc3f3afa1"
-        },
-        {
-            "name": "Bootstrap",
-            "value": 100,
-            "id": "fff8c367-231b-4bed-8704-379b31577fd4"
-        },
-        {
-            "name": "CSS3",
-            "value": 100,
-            "id": "d05aa02b-ef46-40f0-b18c-56effe0f022d"
-        },
-        {
-            "name": "Less",
-            "value": 100,
-            "id": "8c65b523-5d3f-4046-8ffc-ce6f5ba85f3a"
-        },
-        {
-            "name": "Sass",
-            "value": 100,
-            "id": "2a45e305-b45c-47bf-be9b-aeb30cb5628a"
-        },
-        {
-            "name": "styled-components",
-            "value": 100,
-            "id": "13ff215b-fe60-404c-9878-0337247f2324"
-        },
-        {
-            "name": "Stylus",
-            "value": 100,
-            "id": "3fb39dde-b561-41e1-9c8f-d7d822cd9af5"
-        },
-        {
-            "name": "Next JS",
-            "value": 100,
-            "id": "9180547e-c09b-4c1e-a054-fbeb293950ab"
-        },
-        {
-            "name": "RxJS",
-            "value": 100,
-            "id": "f1620478-b3a4-49e9-aaa0-9a17fcbb3154"
-        },
-        {
-            "name": "vueJS",
-            "value": 100,
-            "id": "e9f0d491-8770-4144-bb0f-9c4af5676ac7"
-        },
-        {
-            "name": "BackboneJS",
-            "value": 100,
-            "id": "83dc1c1d-caa2-40fb-a0eb-80acf189d387"
-        },
-        {
-            "name": "D3JS",
-            "value": 100,
-            "id": "ed11ecff-4cf5-4494-bfc7-0f67b58d2009"
-        },
-        {
-            "name": "Babel",
-            "value": 100,
-            "id": "5df40bcd-8b7e-426e-b122-8771df5bfb13"
-        },
-        {
-            "name": "Coffeescript",
-            "value": 100,
-            "id": "5178ccca-279e-4678-ad6c-d86da24a6aa3"
-        },
-        {
-            "name": "Cypress",
-            "value": 100,
-            "id": "878b6b42-2351-4079-b223-7c723317a0b3"
-        },
-        {
-            "name": "Docker",
-            "value": 100,
-            "id": "7c7e3468-b086-40fc-a2ab-2c79d7e4cc38"
-        },
-        {
-            "name": "DGraph",
-            "value": 100,
-            "id": "b435fdc2-f9c3-44a9-ac19-ec4ecaaca378"
-        },
-        {
-            "name": "ESLint",
-            "value": 100,
-            "id": "a3ffaacf-ffb1-46d3-8412-f23caf01883a"
-        },
-        {
-            "name": "Go",
-            "value": 100,
-            "id": "19e46887-bb9e-4c6f-a56e-95153590dc08"
-        },
-        {
-            "name": "HTML5",
-            "value": 100,
-            "id": "8d0a9463-232b-4b00-853e-83a1384a974a"
-        },
-        {
-            "name": "Jasmine",
-            "value": 100,
-            "id": "5b1c4333-e817-44ce-8e80-a46dbd4a06a3"
-        },
-        {
-            "name": "Jest",
-            "value": 100,
-            "id": "7c52a516-03b4-49f1-b390-0f8c88afe97d"
-        },
-        {
-            "name": "jQuery",
-            "value": 100,
-            "id": "6a7414d8-6c84-47b7-bccd-7fba91b74ea6"
-        },
-        {
-            "name": "JUnit",
-            "value": 100,
-            "id": "703c5ead-9911-4c43-abbf-59d8ad8a3b2d"
-        },
-        {
-            "name": "Lit Elements",
-            "value": 100,
-            "id": "31d2771a-bbfc-4d42-ab92-ec2e9dff7531"
-        },
-        {
-            "name": "Material Ui",
-            "value": 100,
-            "id": "80d11e84-9e26-4230-90b1-4c6bb0a34439"
-        },
-        {
-            "name": "Mocha",
-            "value": 100,
-            "id": "5e9b1d3c-d320-4566-9eed-c838080485d7"
-        },
-        {
-            "name": "MongoDB",
-            "value": 100,
-            "id": "0eecd2b5-ec74-4798-8931-0e4344e62ae0"
-        },
-        {
-            "name": "Postman",
-            "value": 100,
-            "id": "1569836a-0a2b-4ebc-a818-43d160a0faec"
-        },
-        {
-            "name": "Prettier",
-            "value": 100,
-            "id": "ea585f40-0ecc-4e07-832c-159d67ae546e"
-        },
-        {
-            "name": "Progressive Web Apps",
-            "value": 100,
-            "id": "dd2b5ea7-630f-46c1-a92e-38fa6b9b8341"
-        },
-        {
-            "name": "Protractor",
-            "value": 100,
-            "id": "1dab39f3-07bc-4f15-810a-4f38729b7337"
-        },
-        {
-            "name": "Visual Code",
-            "value": 100,
-            "id": "e167644d-a97f-42ef-85b5-359eb741e0aa"
-        },
-        {
-            "name": "Webpack",
-            "value": 100,
-            "id": "1d553c45-c872-4468-9885-9b6396bfcf5d"
-        },
-        {
-            "name": "Yarn",
-            "value": 100,
-            "id": "6dd47b4b-eea9-4dae-a577-409a7284342f"
-        }
-    ],
-    "languages": [
-        {
-            "language": "English",
-            "value": 80,
-            "fluency": "Expert",
-            "id": "50be0f3d-112d-4deb-9e89-9ff0e2fc32b4",
-            "index": 0
-        },
-        {
-            "language": "Hindi",
-            "value": 100,
-            "fluency": "Native speaker",
-            "id": "4a97ea3a-22cb-4a2b-9c13-2826e2c860f2",
-            "index": 1
-        }
-    ],
-    "interests": [
-        {
-            "name": "Technology",
-            "gifUrl": "https://media.giphy.com/media/26tOY3KjQUL9YhRT2/giphy.gif",
-            "id": "e33126c1-9978-48a5-b44d-2e024508d9c7",
-            "index": 0
-        },
-        {
-            "name": "Watching Movies",
-            "gifUrl": "https://media.giphy.com/media/QWGcwOFCBTRLmgxW7k/giphy.gif",
-            "id": "40f16104-0e55-40b5-b7b8-2c634cfaf86e",
-            "index": 1
-        },
-        {
-            "name": "Surfing Internet",
-            "gifUrl": "https://media.giphy.com/media/IwTWTsUzmIicM/giphy.gif",
-            "id": "d445b440-c831-45a8-9e03-2cc171a4f8a4",
-            "index": 2
-        },
-        {
-            "name": "Family",
-            "gifUrl": "https://media.giphy.com/media/kD6UmjMllx7FJlw9kV/giphy.gif",
-            "id": "0b187930-3c90-4d60-b815-c1de68dc44d4",
-            "index": 3
-        },
-        {
-            "name": "Console Gaming",
-            "gifUrl": "https://media.giphy.com/media/AhhGtrpj5ZxGZER5yC/giphy.gif",
-            "id": "696e24af-5fb6-4a1a-8cec-a414f48e0d3b",
-            "index": 4
-        }
-    ],
-    "references": [
-        {
-            "name": "Jane Doe",
-            "reference": "Reference..."
-        }
-    ],
-    "projects": [
-        {
-            "description": "This is layered framework consisting 3 layers- UI, Secure Proxy, and Service Layer. Different mini apps are developed using this framework and then are consumed by end users. UI mini app is designed using either ReactJS or AngularJS using the MCA Framework.",
-            "name": "MCA(Multi Channel Application) Framework",
-            "date": {
-                "month": 1,
-                "year": 2022
-            },
-            "id": "6964af07-2bbf-4281-8e3c-3abdfe2f2e76",
-            "endDate": "2022-01-10",
-            "index": 0
-        },
-        {
-            "id": "4c362cf5-7948-4c92-b362-bf60793ff898",
-            "name": "Borrower Portal (Product)",
-            "title": "Projects",
-            "description": "We have built a product named as Borrower Portal, This portal creates a way for end-user to apply for a loan. Which includes various steps likes uploading required government documents which help to process the loan application. Provide a way to link end-users bank account which ensures applied loan money deposited into bank account electronically. This uses services like plain / fincity.",
-            "endDate": "2018-12-01",
-            "index": 1,
-            "link": "",
-            "images": [],
-            "date": {
-                "month": 12,
-                "year": 2018
-            }
-        },
-        {
-            "id": "61b4038b-2e61-49ec-99a4-ad17adc9f928",
-            "name": "Back-Office Portal (Product)",
-            "description": "We have built a product named as Back-Office Portal, Which handles loan application, with the various life cycle of loan application and executes various steps including verification using 3rd party providers, generating cash flow and creating reports based on it.",
-            "endDate": "2018-12-01",
-            "index": 2,
-            "link": "",
-            "images": [],
-            "date": {
-                "month": 12,
-                "year": 2018
-            }
-        },
-        {
-            "name": "Customer Facing and Back-Office Portal",
-            "description": "We created a customer and back-office portal for one of the biggest personal loan provider in USA. Which has various process which are required for a loan application to move further in its lifecycle.",
-            "endDate": "2016-03-31",
-            "index": 3,
-            "link": "",
-            "images": [],
-            "date": {
-                "month": 3,
-                "year": 2016
-            }
-        },
-        {
-            "id": "de55013f-1c9a-4603-b698-44b1810ad69c",
-            "name": "SAAS based Application for Manufactures",
-            "description": "Its a high-performance, multi-tenant cloud application. It’s a SAAS based solution for Sales/Marketing team for the Consumer Products industry, that sell products to the retailers.",
-            "endDate": "2014-03-31",
-            "index": 4,
-            "link": "",
-            "images": [],
-            "date": {
-                "month": 3,
-                "year": 2014
-            }
-        },
-        {
-            "id": "1e3a2796-e06c-4322-96ca-0df39c478d8d",
-            "name": "SAAS Application based on Social Domain",
-            "description": "The Social Business Index (SBI) is used to score and rank social network activity about various large MNC's, across the top social networks, including Twitter, LinkedIn and Facebook. Based on the followers of these social networks of various companies, the software arrives at a score (Business Index) and ranks it as per highest to lowest. Each of the products of these companies will be segmented and find the score ratio which will be used for analysis, recommendations and to generate analytical reports, charts etc",
-            "endDate": "2013-12-01",
-            "index": 5,
-            "link": "",
-            "images": [],
-            "date": {
-                "month": 12,
-                "year": 2013
-            }
-        },
-        {
-            "id": "09fa39da-9153-4289-b992-b2a2c8938693",
-            "name": "SAAS based Application for Tracking Brand’s Social Performance",
-            "description": "It is a SAAS web application that tracks the brand’s social activities against brand marketing business outcomes including Brand Awareness, Brand Love, Brand Mindshare, and Brand Advocacy. Unlike alternatives that focus only on simplistic activity counts, it provides metrics correlated to the brand marketing business outcomes and benchmarked against the competitors and industry.",
-            "endDate": "2012-12-01",
-            "index": 6,
-            "link": "",
-            "images": [],
-            "date": {
-                "month": 12,
-                "year": 2012
-            }
-        },
-        {
-            "id": "7bcc6b3c-9399-41d7-ba70-0070e7e42c0f",
-            "name": "SAAS for Brand’s Advocacy Impact",
-            "description": "It is a subscription service that identifies a brand’s top advocates across social channels and measures brand impact, giving a more scalable (and trusted) way of engaging with the audience. It identifies a brand’s advocates by isolating brand-related conversations and applying sentiment and topic analysis, creating a unique window into the people and conversations that reinforce a brand’s message in the market.",
-            "endDate": "2012-12-01",
-            "index": 7,
-            "link": "",
-            "images": [],
-            "date": {
-                "month": 12,
-                "year": 2012
-            }
-        },
-        {
-            "id": "40033a45-d6f9-4d2a-bf1e-deb6a043221e",
-            "name": "SAAS for managing Employees’ Social Advocacy",
-            "description": "It is a subscription service that measures the impact of employees’ social activities on a brand and allows for the management of employee advocacy programs, giving brands the ability to scale their engagement across their social audience. Brands can mobilize and measure their employees' social efforts with a Portal and an Employee Leader board, enabling to showcase policies and programs, and providing with insight to posts, followers, sentiment, and echoed signals.",
-            "endDate": "2011-12-01",
-            "index": 8,
-            "link": "",
-            "images": [],
-            "date": {
-                "month": 12,
-                "year": 2012
-            }
-        }
-    ],
-    "specific": {
-        "basics": {
-            "visaSponsorship": true,
-            "personalDescription": "With over 14 years in software development, I specialize in front-end technologies, including React JS, and have a keen interest in UI and Motion animation. My career is marked by leading projects from inception to deployment, demonstrating a strong commitment to modern web standards and innovative development techniques.",
-            "globalJobTitle": "Associate Architect"
-        },
-        "dreamJob": {
-            "locations": [
-                {
-                    "name": "United States",
-                    "id": "4316da49-aa9d-4b41-9770-95da0aaf0741",
-                    "index": 0
-                },
-                {
-                    "name": "United Kingdom",
-                    "id": "a9437cfc-9c66-4a7a-9b58-674e85881e5f",
-                    "index": 1
-                },
-                {
-                    "name": "Canada",
-                    "id": "01ca2265-bc7b-4f5d-8432-a46b7b508276",
-                    "index": 2
-                },
-                {
-                    "name": "Australia",
-                    "id": "b837d44e-b36c-45c7-97ca-24db97b3b6ec",
-                    "index": 3
-                },
-                {
-                    "name": "Switzerland",
-                    "id": "344f3d68-17bb-4584-9c72-0301c9c677f5",
-                    "index": 4
-                },
-                {
-                    "name": "Netherlands",
-                    "id": "c8626be8-a364-4603-a084-876e98c9897e",
-                    "index": 5
-                },
-                {
-                    "name": "Singapore",
-                    "id": "92b553b1-4774-41cc-ae1b-6787224ce4f6",
-                    "index": 6
-                },
-                {
-                    "name": "Japan",
-                    "id": "f338387f-4d61-48e1-b081-7874bb0fbd9f",
-                    "index": 7
-                }
-            ],
-            "remoteFrequency": {
-                "frequency": "hybrid",
-                "daysPerWeek": 2
-            },
-            "perks": {
-                "mood": true,
-                "work_hours": true,
-                "responsibilities": true,
-                "perks": true,
-                "training": true,
-                "challenge": true,
-                "salary": true
-            }
-        },
-        "currentJob": {
-            "issues": {}
-        },
-        "education": {
-            "studiesLevel": 4
-        },
-        "work": {
-            "contractTypes": [
-                "permanent"
-            ],
-            "codingYears": 14,
-            "codingReason": " I'm motivated by the challenge of creating seamless user experiences, solving complex problems through clean, efficient code, and continuously evolving with the fast-paced tech landscape.",
-            "searchState": "openOpportunities",
-            "experienceYears": 14,
-            "codeExperienceYears": 14,
-            "otherExperienceYears": 0
-        },
-        "sound": {
-            "embedUrl": ""
-        },
-        "interestedBy": "I'm particularly interested in cutting-edge frontend technologies like React, Angular, and Vue.js, as well as modern development tools such as TypeScript, GraphQL, WebAssembly, and progressive web apps (PWAs). I'm also keen on exploring advancements in web performance optimization, server-side rendering (SSR), micro frontend, and cloud-native solutions for frontend scalability. Continuous learning and experimenting with new frameworks and architectures keep me motivated."
+    "profiles": [
+      {
+        "network": "twitter",
+        "username": "@satishjhanwer",
+        "url": "",
+        "id": "96705ea7-ec60-4b01-8317-18c06533ab68"
+      },
+      {
+        "network": "github",
+        "username": "satishjhanwer",
+        "url": "",
+        "id": "a4cf8fb2-4d85-4e9e-8b1a-22cb557f0613"
+      },
+      {
+        "network": "linkedin",
+        "url": "https://www.linkedin.com/in/satishjhanwer/",
+        "id": "b09d0631-bd94-4ace-8f55-6a467b3e33d1"
+      }
+    ]
+  },
+  "work": [
+    {
+      "name": "UnitedHealth Group",
+      "position": "Senior Software Engineering Lead",
+      "website": "https://www.unitedhealthgroup.com/",
+      "startDate": "2025-11-24",
+      "summary": "    • Upheld optimal performance of UI elements through utilization of coding standards and optimizations techniques.\n    • Developed an approach for creating long-lasting UI modules that could be applied in future ventures.\n    • Applied responsive design strategies to optimized compatibility on mobile devices and tablets\n    • Facilitated the growth of junior developers by offering comprehensive technical guidance and mentorship in UI development tasks and processes.\n    • Contributed feedback during code reviews to enhance team collaboration.\n    • Diligently recorded any updates to the UI, from fixing bugs to improving features.",
+      "location": "Bengaluru, India",
+      "highlights": [
+        ""
+      ],
+      "place": {
+        "name": "Bengaluru, India"
+      },
+      "stillEmployed": true,
+      "index": 0
     },
-    "resumeCustomization": {
-        "imageHeader": {
-            "url": "https://cdn.filestackcontent.com/8I2wVnCRTFxypXRYLRsp",
-            "alt": "Default Banner"
-        },
-        "cardsOrder": [
-            {
-                "type": "basics",
-                "variant": 4
-            },
-            {
-                "type": "projects",
-                "variant": 4
-            },
-            {
-                "type": "skills",
-                "variant": 0
-            },
-            {
-                "type": "experiences",
-                "variant": 4
-            },
-            {
-                "type": "studies",
-                "variant": 4
-            },
-            {
-                "type": "dreamjob",
-                "variant": 4
-            },
-            {
-                "type": "gifs",
-                "variant": 0
-            },
-            {
-                "type": "interestedBy",
-                "variant": 3
-            },
-            {
-                "type": "language",
-                "variant": 4
-            },
-            {
-                "type": "social",
-                "variant": 4
-            }
-        ],
-        "fields": {
-            "work": {
-                "customDateFormat": "YYYY"
-            }
-        },
-        "theme": {
-            "palette": {
-                "primary": {
-                    "50": "#edebeb",
-                    "100": "#dbd8d8",
-                    "200": "#b8b1b1",
-                    "300": "#948989",
-                    "400": "#716262",
-                    "500": "#4d3b3b",
-                    "600": "#3e2f2f",
-                    "700": "#2e2323",
-                    "800": "#1f1818",
-                    "900": "#0f0c0c",
-                    "contrastDefaultColor": "light"
-                },
-                "secondary": {
-                    "50": "#fcefef",
-                    "100": "#f8e0e0",
-                    "200": "#f2c0c0",
-                    "300": "#eba1a1",
-                    "400": "#e58181",
-                    "500": "#de6262",
-                    "600": "#b24e4e",
-                    "700": "#853b3b",
-                    "800": "#592727",
-                    "900": "#2c1414",
-                    "contrastDefaultColor": "light"
-                },
-                "tertiary": {
-                    "50": "#fff8f4",
-                    "100": "#fff1e8",
-                    "200": "#ffe3d1",
-                    "300": "#ffd4ba",
-                    "400": "#ffc6a3",
-                    "500": "#ffb88c",
-                    "600": "#cc9370",
-                    "700": "#996e54",
-                    "800": "#664a38",
-                    "900": "#33251c",
-                    "contrastDefaultColor": "light"
-                }
-            }
-        }
+    {
+      "name": "Sigma Infosolutions Ltd",
+      "position": "Associate Architect",
+      "website": "https://www.lendfoundry.com",
+      "startDate": "2022-01-13",
+      "endDate": "2025-09-12",
+      "summary": "    • Upheld optimal performance of UI elements through utilization of coding standards and optimizations techniques.\n    • Developed an approach for creating long-lasting UI modules that could be applied in future ventures.\n    • Applied responsive design strategies to optimized compatibility on mobile devices and tablets\n    • Facilitated the growth of junior developers by offering comprehensive technical guidance and mentorship in UI development tasks and processes.\n    • Contributed feedback during code reviews to enhance team collaboration.\n    • Diligently recorded any updates to the UI, from fixing bugs to improving features.",
+      "location": "Jodhpur, India",
+      "highlights": [
+        ""
+      ],
+      "id": "f3792c0a-8710-469d-afc2-42d29ebb2da4",
+      "place": {
+        "name": "Jodhpur, India"
+      },
+      "stillEmployed": true,
+      "index": 0
+    },
+    {
+      "name": "Barclays Global Service Centre",
+      "position": "Senior UI Developer",
+      "website": "https://www.barclays.in/global-service-centre/btci/",
+      "startDate": "2018-12-31",
+      "endDate": "2022-01-10",
+      "summary": "    • Implemented strategies to integrate emerging UX/UI design trends into current offerings.\n    • Provided support to other teams by addressing issues regarding front-end functionality.\n    • Recognized alternative technology options that matched specific client objectives and difficulties.\n    • Implemented and efficient and user-friendly UI Framework across multiple banking software platforms.",
+      "location": "Pune, India",
+      "highlights": [
+        ""
+      ],
+      "id": "0575e6eb-e1d9-4a9b-87e3-4b0044525a15",
+      "place": {
+        "name": "Pune, India"
+      },
+      "stillEmployed": false,
+      "index": 1
+    },
+    {
+      "name": "Sigma Infosolutions Ltd",
+      "position": "Senior Software Engineer",
+      "website": "https://www.sigmainfo.net/",
+      "startDate": "2013-04-01",
+      "endDate": "2018-12-01",
+      "summary": "    • Provided technical assistance to junior developers in debugging code.\n    • Collaborated with team members to ensure successful project completion with timeline constraints.\n    • Mentored and developed junior developers and engineers to increase productivity.\n    • Conducted extensive research to identify cutting-edge technology for project implementation.",
+      "location": "Ahmedabad, India",
+      "highlights": [
+        ""
+      ],
+      "id": "16acc509-8a5e-466d-953f-e17cbc814149",
+      "place": {
+        "name": "Ahmedabad, India"
+      },
+      "stillEmployed": false,
+      "index": 3
+    },
+    {
+      "name": "Sigma Infosolutions Ltd",
+      "position": "Software Engineer",
+      "website": "https://www.sigmainfo.net/",
+      "startDate": "2012-04-01",
+      "endDate": "2013-03-31",
+      "summary": "    • Analyzed user requirements to develop software solutions and created technical specifications.\n    • Developed, tested, debugged and documented software programs using Groovy, JavaScript, jQuery and HTML and CSS.\n    • Researched emerging technologies for potential implementation in current products.\n    • Proposed innovative ideas for enhancing existing applications based on the industry trends.\n    • Utilized multiple engineering languages to create and deploy various web applications.",
+      "location": "Bengaluru, India",
+      "highlights": [
+        ""
+      ],
+      "id": "a270cb7f-c889-4202-b355-3990143ad888",
+      "place": {
+        "name": "Bengaluru, India"
+      },
+      "stillEmployed": false,
+      "index": 4
+    },
+    {
+      "name": "Sigma Infosolutions Ltd",
+      "position": "Associate Software Engineer",
+      "website": "https://www.sigmainfo.net/",
+      "startDate": "2010-10-14",
+      "endDate": "2012-03-31",
+      "summary": "    • Analyzed user requirements to develop software solutions and created technical specifications.\n    • Developed, tested, debugged and documented software programs using Groovy, JavaScript, jQuery and HTML and CSS.\n    • Researched emerging technologies for potential implementation in current products.\n    • Proposed innovative ideas for enhancing existing applications based on the industry trends.\n    • Utilized multiple engineering languages to create and deploy various web applications.",
+      "location": "Bengaluru, India",
+      "highlights": [
+        "Started the company"
+      ],
+      "id": "72eb4ba0-d9c3-4ca6-b5b6-58d3b6f435be",
+      "place": {
+        "name": "Bengaluru, India"
+      },
+      "stillEmployed": false,
+      "index": 5
     }
+  ],
+  "volunteer": [
+    {
+      "organization": "Organization",
+      "position": "Volunteer",
+      "website": "http://organization.com/",
+      "endDate": "2013-01-01",
+      "summary": "Description...",
+      "highlights": [
+        "Awarded 'Volunteer of the Month'"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "position": 3,
+      "id": "f2a8dc2f-b1a1-4e84-8711-c0b617f1813a",
+      "studyType": "M.Tech. Degree",
+      "area": "AI / ML",
+      "startDate": "2024-07-26",
+      "endDate": "2026-01-31T18:30:00.000Z",
+      "institution": "IIT, Jodhpur"
+    },
+    {
+      "position": 0,
+      "institution": "Rajasthan Technical University, Kota",
+      "area": "Information Technology",
+      "studyType": "B.Tech. Degree",
+      "startDate": "2006-07-01",
+      "endDate": "2010-01-31T18:30:00.000Z",
+      "gpa": "75%",
+      "courses": [
+        "Information Technology"
+      ],
+      "id": "2f7316f2-0918-4c09-a076-174843009153"
+    },
+    {
+      "position": 1,
+      "institution": "Board of Secondary Education, Rajasthan",
+      "area": "Science Maths",
+      "studyType": "Senior Secondary",
+      "startDate": "2006-05-30",
+      "endDate": "2005-01-31T18:30:00.000Z",
+      "gpa": "78%",
+      "courses": [
+        ""
+      ],
+      "id": "f85bac8e-85c4-42e5-92e8-d01150a36af3"
+    },
+    {
+      "position": 2,
+      "institution": "Board of Secondary Education, Rajasthan",
+      "area": "All Subjects",
+      "studyType": "Secondary",
+      "startDate": "2003-05-30",
+      "endDate": "2004-01-31T18:30:00.000Z",
+      "gpa": "72%",
+      "courses": [
+        ""
+      ],
+      "id": "cdc2325d-9b7c-4a32-ac17-f664382d9383"
+    }
+  ],
+  "awards": [
+    {
+      "title": "Quarterly Appreciation Award",
+      "date": "2015-08-01",
+      "awarder": "Sigma Infosolutions Ltd",
+      "summary": ""
+    },
+    {
+      "title": "Spot Award",
+      "date": "2014-10-01",
+      "awarder": "Sigma Infosolutions Ltd",
+      "summary": ""
+    },
+    {
+      "title": "Debut Employee Award",
+      "date": "2010-11-01",
+      "awarder": "Sigma Infosolutions Ltd",
+      "summary": ""
+    }
+  ],
+  "publications": [
+    {
+      "name": "Publication",
+      "publisher": "Company",
+      "releaseDate": "2014-10-01",
+      "website": "http://publication.com",
+      "summary": "Description..."
+    }
+  ],
+  "skills": [
+    {
+      "name": "React",
+      "value": 100,
+      "id": "c0d86fc5-ce81-48ec-82d3-3ce3a1ec70ad",
+      "keywords": [
+        "HTML",
+        "CSS",
+        "Javascript"
+      ]
+    },
+    {
+      "name": "NodeJS",
+      "value": 100,
+      "id": "e8d6366c-e01c-4f40-b20b-5acdbe7b9914",
+      "keywords": [
+        "HTML",
+        "CSS",
+        "Javascript"
+      ]
+    },
+    {
+      "name": "Typescript",
+      "value": 100,
+      "id": "d3c545e4-50f1-4ede-9537-e319195e3235"
+    },
+    {
+      "name": "Javascript",
+      "value": 100,
+      "id": "fbaed602-f51f-427c-bc54-3edded7195d8"
+    },
+    {
+      "name": "Redux",
+      "value": 100,
+      "id": "7f28311f-daee-44aa-8681-c9b8ecb3bb09"
+    },
+    {
+      "name": "AngularJS",
+      "value": 100,
+      "id": "3c392fc4-cbd9-4e3c-b968-1f03ea8550e7",
+      "keywords": [
+        "HTML",
+        "CSS",
+        "Javascript"
+      ]
+    },
+    {
+      "name": "Gulp",
+      "value": 100,
+      "id": "2f085452-c3ae-403c-a4b5-65bc625e7985"
+    },
+    {
+      "name": "Grunt",
+      "value": 100,
+      "id": "72598cf6-1779-4cf4-b0e6-21925e986e7b"
+    },
+    {
+      "name": "Express",
+      "value": 100,
+      "id": "2c054467-6b7d-44eb-956c-f08bc3f3afa1"
+    },
+    {
+      "name": "Bootstrap",
+      "value": 100,
+      "id": "fff8c367-231b-4bed-8704-379b31577fd4"
+    },
+    {
+      "name": "CSS3",
+      "value": 100,
+      "id": "d05aa02b-ef46-40f0-b18c-56effe0f022d"
+    },
+    {
+      "name": "Less",
+      "value": 100,
+      "id": "8c65b523-5d3f-4046-8ffc-ce6f5ba85f3a"
+    },
+    {
+      "name": "Sass",
+      "value": 100,
+      "id": "2a45e305-b45c-47bf-be9b-aeb30cb5628a"
+    },
+    {
+      "name": "styled-components",
+      "value": 100,
+      "id": "13ff215b-fe60-404c-9878-0337247f2324"
+    },
+    {
+      "name": "Stylus",
+      "value": 100,
+      "id": "3fb39dde-b561-41e1-9c8f-d7d822cd9af5"
+    },
+    {
+      "name": "Next JS",
+      "value": 100,
+      "id": "9180547e-c09b-4c1e-a054-fbeb293950ab"
+    },
+    {
+      "name": "RxJS",
+      "value": 100,
+      "id": "f1620478-b3a4-49e9-aaa0-9a17fcbb3154"
+    },
+    {
+      "name": "vueJS",
+      "value": 100,
+      "id": "e9f0d491-8770-4144-bb0f-9c4af5676ac7"
+    },
+    {
+      "name": "BackboneJS",
+      "value": 100,
+      "id": "83dc1c1d-caa2-40fb-a0eb-80acf189d387"
+    },
+    {
+      "name": "D3JS",
+      "value": 100,
+      "id": "ed11ecff-4cf5-4494-bfc7-0f67b58d2009"
+    },
+    {
+      "name": "Babel",
+      "value": 100,
+      "id": "5df40bcd-8b7e-426e-b122-8771df5bfb13"
+    },
+    {
+      "name": "Coffeescript",
+      "value": 100,
+      "id": "5178ccca-279e-4678-ad6c-d86da24a6aa3"
+    },
+    {
+      "name": "Cypress",
+      "value": 100,
+      "id": "878b6b42-2351-4079-b223-7c723317a0b3"
+    },
+    {
+      "name": "Docker",
+      "value": 100,
+      "id": "7c7e3468-b086-40fc-a2ab-2c79d7e4cc38"
+    },
+    {
+      "name": "DGraph",
+      "value": 100,
+      "id": "b435fdc2-f9c3-44a9-ac19-ec4ecaaca378"
+    },
+    {
+      "name": "ESLint",
+      "value": 100,
+      "id": "a3ffaacf-ffb1-46d3-8412-f23caf01883a"
+    },
+    {
+      "name": "Go",
+      "value": 100,
+      "id": "19e46887-bb9e-4c6f-a56e-95153590dc08"
+    },
+    {
+      "name": "HTML5",
+      "value": 100,
+      "id": "8d0a9463-232b-4b00-853e-83a1384a974a"
+    },
+    {
+      "name": "Jasmine",
+      "value": 100,
+      "id": "5b1c4333-e817-44ce-8e80-a46dbd4a06a3"
+    },
+    {
+      "name": "Jest",
+      "value": 100,
+      "id": "7c52a516-03b4-49f1-b390-0f8c88afe97d"
+    },
+    {
+      "name": "jQuery",
+      "value": 100,
+      "id": "6a7414d8-6c84-47b7-bccd-7fba91b74ea6"
+    },
+    {
+      "name": "JUnit",
+      "value": 100,
+      "id": "703c5ead-9911-4c43-abbf-59d8ad8a3b2d"
+    },
+    {
+      "name": "Lit Elements",
+      "value": 100,
+      "id": "31d2771a-bbfc-4d42-ab92-ec2e9dff7531"
+    },
+    {
+      "name": "Material Ui",
+      "value": 100,
+      "id": "80d11e84-9e26-4230-90b1-4c6bb0a34439"
+    },
+    {
+      "name": "Mocha",
+      "value": 100,
+      "id": "5e9b1d3c-d320-4566-9eed-c838080485d7"
+    },
+    {
+      "name": "MongoDB",
+      "value": 100,
+      "id": "0eecd2b5-ec74-4798-8931-0e4344e62ae0"
+    },
+    {
+      "name": "Postman",
+      "value": 100,
+      "id": "1569836a-0a2b-4ebc-a818-43d160a0faec"
+    },
+    {
+      "name": "Prettier",
+      "value": 100,
+      "id": "ea585f40-0ecc-4e07-832c-159d67ae546e"
+    },
+    {
+      "name": "Progressive Web Apps",
+      "value": 100,
+      "id": "dd2b5ea7-630f-46c1-a92e-38fa6b9b8341"
+    },
+    {
+      "name": "Protractor",
+      "value": 100,
+      "id": "1dab39f3-07bc-4f15-810a-4f38729b7337"
+    },
+    {
+      "name": "Visual Code",
+      "value": 100,
+      "id": "e167644d-a97f-42ef-85b5-359eb741e0aa"
+    },
+    {
+      "name": "Webpack",
+      "value": 100,
+      "id": "1d553c45-c872-4468-9885-9b6396bfcf5d"
+    },
+    {
+      "name": "Yarn",
+      "value": 100,
+      "id": "6dd47b4b-eea9-4dae-a577-409a7284342f"
+    }
+  ],
+  "languages": [
+    {
+      "language": "English",
+      "value": 80,
+      "fluency": "Expert",
+      "id": "50be0f3d-112d-4deb-9e89-9ff0e2fc32b4",
+      "index": 0
+    },
+    {
+      "language": "Hindi",
+      "value": 100,
+      "fluency": "Native speaker",
+      "id": "4a97ea3a-22cb-4a2b-9c13-2826e2c860f2",
+      "index": 1
+    }
+  ],
+  "interests": [
+    {
+      "name": "Technology",
+      "gifUrl": "https://media.giphy.com/media/26tOY3KjQUL9YhRT2/giphy.gif",
+      "id": "e33126c1-9978-48a5-b44d-2e024508d9c7",
+      "index": 0
+    },
+    {
+      "name": "Watching Movies",
+      "gifUrl": "https://media.giphy.com/media/QWGcwOFCBTRLmgxW7k/giphy.gif",
+      "id": "40f16104-0e55-40b5-b7b8-2c634cfaf86e",
+      "index": 1
+    },
+    {
+      "name": "Surfing Internet",
+      "gifUrl": "https://media.giphy.com/media/IwTWTsUzmIicM/giphy.gif",
+      "id": "d445b440-c831-45a8-9e03-2cc171a4f8a4",
+      "index": 2
+    },
+    {
+      "name": "Family",
+      "gifUrl": "https://media.giphy.com/media/kD6UmjMllx7FJlw9kV/giphy.gif",
+      "id": "0b187930-3c90-4d60-b815-c1de68dc44d4",
+      "index": 3
+    },
+    {
+      "name": "Console Gaming",
+      "gifUrl": "https://media.giphy.com/media/AhhGtrpj5ZxGZER5yC/giphy.gif",
+      "id": "696e24af-5fb6-4a1a-8cec-a414f48e0d3b",
+      "index": 4
+    }
+  ],
+  "references": [
+    {
+      "name": "Jane Doe",
+      "reference": "Reference..."
+    }
+  ],
+  "projects": [
+    {
+      "description": "This is layered framework consisting 3 layers- UI, Secure Proxy, and Service Layer. Different mini apps are developed using this framework and then are consumed by end users. UI mini app is designed using either ReactJS or AngularJS using the MCA Framework.",
+      "name": "MCA(Multi Channel Application) Framework",
+      "date": {
+        "month": 1,
+        "year": 2022
+      },
+      "id": "6964af07-2bbf-4281-8e3c-3abdfe2f2e76",
+      "endDate": "2022-01-10",
+      "index": 0
+    },
+    {
+      "id": "4c362cf5-7948-4c92-b362-bf60793ff898",
+      "name": "Borrower Portal (Product)",
+      "title": "Projects",
+      "description": "We have built a product named as Borrower Portal, This portal creates a way for end-user to apply for a loan. Which includes various steps likes uploading required government documents which help to process the loan application. Provide a way to link end-users bank account which ensures applied loan money deposited into bank account electronically. This uses services like plain / fincity.",
+      "endDate": "2018-12-01",
+      "index": 1,
+      "link": "",
+      "images": [],
+      "date": {
+        "month": 12,
+        "year": 2018
+      }
+    },
+    {
+      "id": "61b4038b-2e61-49ec-99a4-ad17adc9f928",
+      "name": "Back-Office Portal (Product)",
+      "description": "We have built a product named as Back-Office Portal, Which handles loan application, with the various life cycle of loan application and executes various steps including verification using 3rd party providers, generating cash flow and creating reports based on it.",
+      "endDate": "2018-12-01",
+      "index": 2,
+      "link": "",
+      "images": [],
+      "date": {
+        "month": 12,
+        "year": 2018
+      }
+    },
+    {
+      "name": "Customer Facing and Back-Office Portal",
+      "description": "We created a customer and back-office portal for one of the biggest personal loan provider in USA. Which has various process which are required for a loan application to move further in its lifecycle.",
+      "endDate": "2016-03-31",
+      "index": 3,
+      "link": "",
+      "images": [],
+      "date": {
+        "month": 3,
+        "year": 2016
+      }
+    },
+    {
+      "id": "de55013f-1c9a-4603-b698-44b1810ad69c",
+      "name": "SAAS based Application for Manufactures",
+      "description": "Its a high-performance, multi-tenant cloud application. It’s a SAAS based solution for Sales/Marketing team for the Consumer Products industry, that sell products to the retailers.",
+      "endDate": "2014-03-31",
+      "index": 4,
+      "link": "",
+      "images": [],
+      "date": {
+        "month": 3,
+        "year": 2014
+      }
+    },
+    {
+      "id": "1e3a2796-e06c-4322-96ca-0df39c478d8d",
+      "name": "SAAS Application based on Social Domain",
+      "description": "The Social Business Index (SBI) is used to score and rank social network activity about various large MNC's, across the top social networks, including Twitter, LinkedIn and Facebook. Based on the followers of these social networks of various companies, the software arrives at a score (Business Index) and ranks it as per highest to lowest. Each of the products of these companies will be segmented and find the score ratio which will be used for analysis, recommendations and to generate analytical reports, charts etc",
+      "endDate": "2013-12-01",
+      "index": 5,
+      "link": "",
+      "images": [],
+      "date": {
+        "month": 12,
+        "year": 2013
+      }
+    },
+    {
+      "id": "09fa39da-9153-4289-b992-b2a2c8938693",
+      "name": "SAAS based Application for Tracking Brand’s Social Performance",
+      "description": "It is a SAAS web application that tracks the brand’s social activities against brand marketing business outcomes including Brand Awareness, Brand Love, Brand Mindshare, and Brand Advocacy. Unlike alternatives that focus only on simplistic activity counts, it provides metrics correlated to the brand marketing business outcomes and benchmarked against the competitors and industry.",
+      "endDate": "2012-12-01",
+      "index": 6,
+      "link": "",
+      "images": [],
+      "date": {
+        "month": 12,
+        "year": 2012
+      }
+    },
+    {
+      "id": "7bcc6b3c-9399-41d7-ba70-0070e7e42c0f",
+      "name": "SAAS for Brand’s Advocacy Impact",
+      "description": "It is a subscription service that identifies a brand’s top advocates across social channels and measures brand impact, giving a more scalable (and trusted) way of engaging with the audience. It identifies a brand’s advocates by isolating brand-related conversations and applying sentiment and topic analysis, creating a unique window into the people and conversations that reinforce a brand’s message in the market.",
+      "endDate": "2012-12-01",
+      "index": 7,
+      "link": "",
+      "images": [],
+      "date": {
+        "month": 12,
+        "year": 2012
+      }
+    },
+    {
+      "id": "40033a45-d6f9-4d2a-bf1e-deb6a043221e",
+      "name": "SAAS for managing Employees’ Social Advocacy",
+      "description": "It is a subscription service that measures the impact of employees’ social activities on a brand and allows for the management of employee advocacy programs, giving brands the ability to scale their engagement across their social audience. Brands can mobilize and measure their employees' social efforts with a Portal and an Employee Leader board, enabling to showcase policies and programs, and providing with insight to posts, followers, sentiment, and echoed signals.",
+      "endDate": "2011-12-01",
+      "index": 8,
+      "link": "",
+      "images": [],
+      "date": {
+        "month": 12,
+        "year": 2012
+      }
+    }
+  ],
+  "specific": {
+    "basics": {
+      "visaSponsorship": true,
+      "personalDescription": "With over 15 years in software development, I specialize in front-end technologies, including React JS, and have a keen interest in UI and Motion animation. My career is marked by leading projects from inception to deployment, demonstrating a strong commitment to modern web standards and innovative development techniques.",
+      "globalJobTitle": "Senior Software Engineering Lead"
+    },
+    "dreamJob": {
+      "locations": [
+        {
+          "name": "United States",
+          "id": "4316da49-aa9d-4b41-9770-95da0aaf0741",
+          "index": 0
+        },
+        {
+          "name": "United Kingdom",
+          "id": "a9437cfc-9c66-4a7a-9b58-674e85881e5f",
+          "index": 1
+        },
+        {
+          "name": "Canada",
+          "id": "01ca2265-bc7b-4f5d-8432-a46b7b508276",
+          "index": 2
+        },
+        {
+          "name": "Australia",
+          "id": "b837d44e-b36c-45c7-97ca-24db97b3b6ec",
+          "index": 3
+        },
+        {
+          "name": "Switzerland",
+          "id": "344f3d68-17bb-4584-9c72-0301c9c677f5",
+          "index": 4
+        },
+        {
+          "name": "Netherlands",
+          "id": "c8626be8-a364-4603-a084-876e98c9897e",
+          "index": 5
+        },
+        {
+          "name": "Singapore",
+          "id": "92b553b1-4774-41cc-ae1b-6787224ce4f6",
+          "index": 6
+        },
+        {
+          "name": "Japan",
+          "id": "f338387f-4d61-48e1-b081-7874bb0fbd9f",
+          "index": 7
+        }
+      ],
+      "remoteFrequency": {
+        "frequency": "hybrid",
+        "daysPerWeek": 2
+      },
+      "perks": {
+        "mood": true,
+        "work_hours": true,
+        "responsibilities": true,
+        "perks": true,
+        "training": true,
+        "challenge": true,
+        "salary": true
+      }
+    },
+    "currentJob": {
+      "issues": {}
+    },
+    "education": {
+      "studiesLevel": 4
+    },
+    "work": {
+      "contractTypes": [
+        "permanent"
+      ],
+      "codingYears": 14,
+      "codingReason": " I'm motivated by the challenge of creating seamless user experiences, solving complex problems through clean, efficient code, and continuously evolving with the fast-paced tech landscape.",
+      "searchState": "openOpportunities",
+      "experienceYears": 14,
+      "codeExperienceYears": 14,
+      "otherExperienceYears": 0
+    },
+    "sound": {
+      "embedUrl": ""
+    },
+    "interestedBy": "I'm particularly interested in cutting-edge frontend technologies like React, Angular, and Vue.js, as well as modern development tools such as TypeScript, GraphQL, WebAssembly, and progressive web apps (PWAs). I'm also keen on exploring advancements in web performance optimization, server-side rendering (SSR), micro frontend, and cloud-native solutions for frontend scalability. Continuous learning and experimenting with new frameworks and architectures keep me motivated."
+  },
+  "resumeCustomization": {
+    "imageHeader": {
+      "url": "https://cdn.filestackcontent.com/8I2wVnCRTFxypXRYLRsp",
+      "alt": "Default Banner"
+    },
+    "cardsOrder": [
+      {
+        "type": "basics",
+        "variant": 4
+      },
+      {
+        "type": "projects",
+        "variant": 4
+      },
+      {
+        "type": "skills",
+        "variant": 0
+      },
+      {
+        "type": "experiences",
+        "variant": 4
+      },
+      {
+        "type": "studies",
+        "variant": 4
+      },
+      {
+        "type": "dreamjob",
+        "variant": 4
+      },
+      {
+        "type": "gifs",
+        "variant": 0
+      },
+      {
+        "type": "interestedBy",
+        "variant": 3
+      },
+      {
+        "type": "language",
+        "variant": 4
+      },
+      {
+        "type": "social",
+        "variant": 4
+      }
+    ],
+    "fields": {
+      "work": {
+        "customDateFormat": "YYYY"
+      }
+    },
+    "theme": {
+      "palette": {
+        "primary": {
+          "50": "#edebeb",
+          "100": "#dbd8d8",
+          "200": "#b8b1b1",
+          "300": "#948989",
+          "400": "#716262",
+          "500": "#4d3b3b",
+          "600": "#3e2f2f",
+          "700": "#2e2323",
+          "800": "#1f1818",
+          "900": "#0f0c0c",
+          "contrastDefaultColor": "light"
+        },
+        "secondary": {
+          "50": "#fcefef",
+          "100": "#f8e0e0",
+          "200": "#f2c0c0",
+          "300": "#eba1a1",
+          "400": "#e58181",
+          "500": "#de6262",
+          "600": "#b24e4e",
+          "700": "#853b3b",
+          "800": "#592727",
+          "900": "#2c1414",
+          "contrastDefaultColor": "light"
+        },
+        "tertiary": {
+          "50": "#fff8f4",
+          "100": "#fff1e8",
+          "200": "#ffe3d1",
+          "300": "#ffd4ba",
+          "400": "#ffc6a3",
+          "500": "#ffb88c",
+          "600": "#cc9370",
+          "700": "#996e54",
+          "800": "#664a38",
+          "900": "#33251c",
+          "contrastDefaultColor": "light"
+        }
+      }
+    }
+  }
 }
